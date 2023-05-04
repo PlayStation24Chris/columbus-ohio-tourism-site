@@ -19,7 +19,7 @@ let testIcon = L.icon({
     popupAnchor: [-5, -40]
 });
 
-L.marker([39.964821, -82.978752], {icon: testIcon}).addTo(map);// art musium 
+L.marker([39.964821, -82.978752], {icon: testIcon}).addTo(map);// art museum 
 L.marker([39.959277, -82.980705], {icon: testIcon}).addTo(map);//hospitlal
 L.marker([39.989479,-83.005341], {icon: testIcon}).addTo(map);//kroger
 L.marker([39.7389, -83.3441], {icon: testIcon}).addTo(map);//ohio is real

@@ -9,30 +9,57 @@ html
     scroll-behavior: smooth;
 }
 
+::-webkit-scrollbar
+{
+    visibility: hidden;
+}
+
 body
 {
     margin: 0;
+    background-color: var(--brandY);
+    height: 120vh;
 }
 
 #navbar
 {
     display: grid;
-grid-template-columns: 3fr 1fr;
+    grid-template-columns: 3fr 1fr;
     height: 100px;
-    background-color: green;
+    background-color: white;
     color: var(--brandG);
     z-index: 999;
-    position: sticky;
+    position: fixed;
 }
 
-#navbar div a{
-    margin: auto;
-display: block;
-    font-size: 2vw;
-margin-left: 3rem;
-text-decoration: none;
-text-align: center;
+#navbar ul
+{
+    margin: 0;
+    list-style-type: none;
+    float: right;
+    height: 100px;
+    width: 50vw;
 }
+
+#navbar li
+{
+    float: right;
+    box-shadow: 6px 8px #1117;
+    height: 94px;
+    justify-content: center;
+}
+
+#navbar div a
+{
+    display: block;
+    font-size: 2vw;
+    text-decoration: none;
+    text-align: center;
+    color: var(--brandG);
+    height: 40px;
+    padding: 28px 0;
+}
+
 .logo img
 {
     height: 100px;
@@ -43,4 +70,6 @@ text-align: center;
     height: 90vh;
     width: 90vw;
     margin: auto;
+    z-index: 1;
+    top: 100px;
 }
