@@ -10,7 +10,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 //create icon for markers
 
 let testIcon = L.icon({
-    iconUrl: '../Resources/Images/Bat Walter White.jpg',
+    iconUrl: '../Resources/Images/WhatsApp.svg.png',
 
     iconSize: [25, 48],
     shadowSize: [38, 40],
@@ -19,7 +19,21 @@ let testIcon = L.icon({
     popupAnchor: [-5, -40]
 });
 
-L.marker([39.950008, -82.823418], {icon: testIcon}).addTo(map);
+L.marker([39.964821, -82.978752], {icon: testIcon}).addTo(map);// art musium 
+L.marker([39.959277, -82.980705], {icon: testIcon}).addTo(map);//hospitlal
+L.marker([39.989479,-83.005341], {icon: testIcon}).addTo(map);//kroger
+L.marker([39.7389, -83.3441], {icon: testIcon}).addTo(map);//ohio is real
+// define rectangle geographical bounds
+var bounds = [[39.7389, -83.3441], [39.989479,-83.005341]];
 
+// create an orange rectangle
+L.rectangle(bounds, {color: "#ff7800", weight: 1}).addTo(map);
+
+// zoom the map to the rectangle bounds
+map.fitBounds(bounds);
+
+// zoom the map to the polyline
+map.fitBounds(polyline.getBounds());
 //NOTES
+//39.989479,-83.005341
 //add marker at 39.950010 -82.823420
