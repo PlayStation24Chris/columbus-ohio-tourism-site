@@ -1,5 +1,9 @@
 //Initialize map
-let map = L.map('map').setView([39.960938, -83.017194], 19);
+let map = L.map('map').setView([39.960938, -83.017194], 11);
+
+//import data
+import data from "../locations.json" assert { type: 'json' };
+const locValues = Object.values(data);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -32,10 +36,17 @@ L.marker([39.7389, -83.3441], {icon: testIcon}).addTo(map);//ohio is real
 // create an orange rectangle
 
 // zoom the map to the rectangle bounds
-map.fitBounds(bounds);
+//map.fitBounds(bounds);
 
 // zoom the map to the polyline
-map.fitBounds(polyline.getBounds());
+//map.fitBounds(polyline.getBounds());
+
+//READ AND PLACE LOCATIONS
+for (let j=0; j<locValues.length; ++j)
+{
+    L.marker([locValues[j].Lat, locValues[j].Long], {icon: testIcon}).addTo(map);
+}
+
 //NOTES
 //39.989479,-83.005341
 //add marker at 39.950010 -82.823420
