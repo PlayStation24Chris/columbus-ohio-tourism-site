@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Subway",
+    "Lat": 39.9589294,
+    "Long": -82.996934,
+    "FlavorText": " Subway 🎼",
+    "Link": "https://www.subway.com/",
+    "Adress":"101 E Town St, Columbus, OH 43215",
+    "Subway": true
+  },
+  {
+    "Name": "Subway",
+    "Lat": 40.1179231,
+    "Long": -83.0150081,
+    "FlavorText": " Subway :)",
+    "Link": "https://www.subway.com/",
+    "Adress":"1 E Campus View Blvd Suite 116, Columbus, OH 43235",
+    "Subway": true
+  },
+  {
+    "Name": "",
+    "Lat": 0,
+    "Long": 0,
+    "FlavorText": "",
+    "Link": "",
+    "Adress":"",
+    "Subway": true
+  },
+  {
+    "Name": "",
+    "Lat": 0,
+    "Long": 0,
+    "FlavorText": "",
+    "Link": "",
+    "Adress":"",
+    "Subway": true
+  },
+  {
+    "Name": "",
+    "Lat": 0,
+    "Long": 0,
+    "FlavorText": "",
+    "Link": "",
+    "Adress":"",
+    "Subway": true
+  },
+  {
+    "Name": "",
+    "Lat": 0,
+    "Long": 0,
+    "FlavorText": "",
+    "Link": "",
+    "Adress":"",
+    "Subway": true
+  },
+  {
+    "Name": "",
+    "Lat": 0,
+    "Long": 0,
+    "FlavorText": "",
+    "Link": "",
+    "Adress":"",
+    "Subway": true
+  }
+]
