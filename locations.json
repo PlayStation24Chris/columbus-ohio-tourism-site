@@ -72,13 +72,13 @@
     "Subway": true
   },
   {
-    "Name": "",
-    "Lat": 0,
-    "Long": 0,
-    "FlavorText": "",
-    "Link": "",
-    "Adress":"",
-    "Subway": true
+    "Name": "Natural History Museum",
+    "Lat": 38.891014,
+    "Long":  -77.026703,
+    "FlavorText": "🔞DINOSAURS🔞",
+    "Link": "https://cosi.org/exhibits/dinos",
+    "Adress":"333 W Broad St, Columbus, OH 43215",
+    "Subway": false
   },
   {
     "Name": "",
