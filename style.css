@@ -70,21 +70,29 @@ body
     max-width: 45vw;
 }
 
+#hidden
+{
+    height: 100px;
+}
+
 /* BODIES AND CONTAINERS */
 
 .bodyY
 {
     min-height: 200px;
     background: var(--brandY);
+    color: var(--brandG);
 }
 
 .bodyG
 {
     min-height: 200px;
     background: var(--brandG);
+    color: var(--brandY);
 }
 
 /* MAP */
+
 #map
 {
     height: 90vh;
