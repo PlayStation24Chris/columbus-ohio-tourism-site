@@ -11,7 +11,7 @@ html
 
 ::-webkit-scrollbar
 {
-    visibility: hidden;
+    width: 0;
 }
 
 body
@@ -21,15 +21,19 @@ body
     height: 120vh;
 }
 
+/* NAVBAR */
+
 #navbar
 {
     display: grid;
     grid-template-columns: 3fr 1fr;
     height: 100px;
+    width: 100vw;
     background-color: white;
     color: var(--brandG);
     z-index: 999;
     position: fixed;
+    margin-top: 0;
 }
 
 #navbar ul
@@ -62,9 +66,25 @@ body
 
 .logo img
 {
-    height: 100px;
+    max-height: 100px;
+    max-width: 45vw;
 }
 
+/* BODIES AND CONTAINERS */
+
+.bodyY
+{
+    min-height: 200px;
+    background: var(--brandY);
+}
+
+.bodyG
+{
+    min-height: 200px;
+    background: var(--brandG);
+}
+
+/* MAP */
 #map
 {
     height: 90vh;
