@@ -23,11 +23,13 @@ L.marker([39.964821, -82.978752], {icon: testIcon}).addTo(map);// art museum
 L.marker([39.959277, -82.980705], {icon: testIcon}).addTo(map);//hospitlal
 L.marker([39.989479,-83.005341], {icon: testIcon}).addTo(map);//kroger
 L.marker([39.7389, -83.3441], {icon: testIcon}).addTo(map);//ohio is real
-// define rectangle geographical bounds
-var bounds = [[39.7389, -83.3441], [39.989479,-83.005341]];
+// add popup
+ L.popup()
+    .setLatLng([39.7389, -83.3441])
+    .setContent('<p>Hello world!<br />This is a nice popup.</p>')
+    .openOn(map);
 
 // create an orange rectangle
-L.rectangle(bounds, {color: "#ff7800", weight: 1}).addTo(map);
 
 // zoom the map to the rectangle bounds
 map.fitBounds(bounds);
