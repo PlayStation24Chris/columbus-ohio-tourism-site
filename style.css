@@ -91,6 +91,29 @@ body
     color: var(--brandY);
 }
 
+.double
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 80vw;
+    margin: auto;
+}
+
+.text
+{
+    font-size: x-large;
+}
+
+/* SLIDESHOW */
+
+.slideshow img
+{
+    aspect-ratio: 1/1;
+    height: 0;
+    background-color: #1117;
+    visibility: hidden;
+}
+
 /* MAP */
 
 #map
