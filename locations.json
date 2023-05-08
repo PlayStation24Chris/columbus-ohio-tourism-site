@@ -18,30 +18,57 @@
     "Subway": true
   },
   {
-    "Name": "",
-    "Lat": 0,
-    "Long": 0,
-    "FlavorText": "",
-    "Link": "",
-    "Adress":"",
+    "Name": "Subway",
+    "Lat": 39.9162279,
+    "Long": -83.0358222,
+    "FlavorText": "subway🌐",
+    "Link": "https://www.subway.com/",
+    "Adress":"1093 Frank Rd, Columbus, OH 43223",
+    "Subway": true
+  },
+  {
+    "Name": "Subway",
+    "Lat": 40.0499474,
+    "Long": -83.0516656,
+    "FlavorText": "subway🆗",
+    "Link": "https://www.subway.com/",
+    "Adress":"1194 Kenny Centre Mall Room # 122, Columbus, OH 43220",
     "Subway": true
   },
   {
     "Name": "",
-    "Lat": 0,
-    "Long": 0,
-    "FlavorText": "",
-    "Link": "",
-    "Adress":"",
+    "Lat": 39.9275356,
+    "Long": -83.1203298,
+    "FlavorText": "subway💯",
+    "Link": "https://www.subway.com/",
+    "Adress":"1221 Georgesville Rd, Columbus, OH 43228",
     "Subway": true
   },
   {
-    "Name": "",
-    "Lat": 0,
-    "Long": 0,
-    "FlavorText": "",
-    "Link": "",
-    "Adress":"",
+    "Name": "Subway",
+    "Lat": 40.0598008,
+    "Long":  -82.9861377,
+    "FlavorText": "Subway©️",
+    "Link": "https://www.subway.com/",
+    "Adress":"1251 Morse Rd, Columbus, OH 43229",
+    "Subway": true
+  },
+  {
+    "Name": "Subway",
+    "Lat": 40.0072525,
+    "Long": -83.0463039,
+    "FlavorText": "↓Subway↓",
+    "Link": "https://www.subway.com/",
+    "Adress":"1320 W Lane Ave, Columbus, OH 43221",
+    "Subway": true
+  },
+  {
+    "Name": "Subway",
+    "Lat": 39.9940551,
+    "Long": -83.0463039,
+    "FlavorText": "↑Subway↑",
+    "Link": "https://www.subway.com/",
+    "Adress":"1320 W Lane Ave, Columbus, OH 43221",
     "Subway": true
   },
   {
