@@ -96,12 +96,13 @@ body
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 80vw;
-    margin: auto;
+    margin: 20px auto;
 }
 
 .text
 {
     font-size: x-large;
+    text-align: center;
 }
 
 /* SLIDESHOW */
