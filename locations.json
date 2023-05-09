@@ -93,7 +93,7 @@
     "Name": "Hospital",
     "Lat": 39.959277,
     "Long": -82.980705,
-    "FlavorText": "Incase of emergancy",
+    "FlavorText": "In case of emergency",
     "Link": "https://www.columbus.gov/publichealth/",
     "href":"hospital.html",
     "Address":"240 Parsons Ave, Columbus, OH 43215",
