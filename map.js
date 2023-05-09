@@ -52,7 +52,7 @@ for (let j=0; j<locValues.length; ++j)
     }
 
     L.marker([locValues[j].Lat, locValues[j].Long], {icon: testIcon}).addTo(map).on('click', function(){
-        L.popup().setLatLng([locValues[j].Lat, locValues[j].Long]).setContent(locValues[j].FlavorText + "<br>Address: " + locValues[j].Adress + "<br>Link: <a target=\"_blank\" href=\"" + locValues[j].Link + "\">Visit Here</a><br>Is this a subway? " + subString).openOn(map);
+        L.popup().setLatLng([locValues[j].Lat, locValues[j].Long]).setContent(locValues[j].FlavorText + "<br>Address: " + locValues[j].Address + "<br>Link: <a target=\"_blank\" href=\"" + locValues[j].Link + "\">Visit Here</a><br>Is this a subway? " + subString).openOn(map);
     });
 }
 

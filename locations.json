@@ -6,7 +6,7 @@
     "FlavorText": " Subway 🎼",
     "Link": "https://www.subway.com/",
     "href":"subway.html",
-    "Adress":"101 E Town St, Columbus, OH 43215",
+    "Address":"101 E Town St, Columbus, OH 43215",
     "Subway": true
   },
   {
@@ -16,7 +16,7 @@
     "FlavorText": " Subway :)",
     "Link": "https://www.subway.com/",
     "href":"subway.html",
-    "Adress":"1 E Campus View Blvd Suite 116, Columbus, OH 43235",
+    "Address":"1 E Campus View Blvd Suite 116, Columbus, OH 43235",
     "Subway": true
   },
   {
@@ -26,7 +26,7 @@
     "FlavorText": "subway🌐",
     "Link": "https://www.subway.com/",
     "href":"subway.html",
-    "Adress":"1093 Frank Rd, Columbus, OH 43223",
+    "Address":"1093 Frank Rd, Columbus, OH 43223",
     "Subway": true
   },
   {
@@ -36,7 +36,7 @@
     "FlavorText": "subway🆗",
     "Link": "https://www.subway.com/",
     "href":"subway.html",
-    "Adress":"1194 Kenny Centre Mall Room # 122, Columbus, OH 43220",
+    "Address":"1194 Kenny Centre Mall Room # 122, Columbus, OH 43220",
     "Subway": true
   },
   {
@@ -46,7 +46,7 @@
     "FlavorText": "subway💯",
     "Link": "https://www.subway.com/",
     "href":"subway.html",
-    "Adress":"1221 Georgesville Rd, Columbus, OH 43228",
+    "Address":"1221 Georgesville Rd, Columbus, OH 43228",
     "Subway": true
   },
   {
@@ -56,7 +56,7 @@
     "FlavorText": "Subway©️",
     "Link": "https://www.subway.com/",
     "href":"subway.html",
-    "Adress":"1251 Morse Rd, Columbus, OH 43229",
+    "Address":"1251 Morse Rd, Columbus, OH 43229",
     "Subway": true
   },
   {
@@ -66,7 +66,7 @@
     "FlavorText": "↓Subway↓",
     "href":"subway.html",
     "Link": "https://www.subway.com/",
-    "Adress":"1320 W Lane Ave, Columbus, OH 43221",
+    "Address":"1320 W Lane Ave, Columbus, OH 43221",
     "Subway": true
   },
   {
@@ -76,22 +76,17 @@
     "FlavorText": "↑Subway↑",
     "Link": "https://www.subway.com/",
     "href":"subway.html",
-    "Adress":"1320 W Lane Ave, Columbus, OH 43221",
+    "Address":"1320 W Lane Ave, Columbus, OH 43221",
     "Subway": true
   },
   {
     "Name": "Natural History Museum",
-<<<<<<< Updated upstream
-    "Lat": 39.9596599,
-    "Long": -83.0070191,
-=======
     "Lat": 39.965359,
     "Long":  -82.973778,
->>>>>>> Stashed changes
     "FlavorText": "🔞DINOSAURS🔞",
     "Link": "https://cosi.org/exhibits/dinos",
     "href":"NaturalHistory.html",
-    "Adress":"333 W Broad St, Columbus, OH 43215",
+    "Address":"333 W Broad St, Columbus, OH 43215",
     "Subway": false
   },
   {
@@ -101,7 +96,7 @@
     "FlavorText": "Incase of emergancy",
     "Link": "https://www.columbus.gov/publichealth/",
     "href":"hospital.html",
-    "Adress":"240 Parsons Ave, Columbus, OH 43215",
+    "Address":"240 Parsons Ave, Columbus, OH 43215",
     "Subway": true
   },
   {
@@ -110,7 +105,7 @@
     "Long": 0,
     "FlavorText": "",
     "Link": "",
-    "Adress":"",
+    "Address":"",
     "href":"",
     "Subway": true
   }
