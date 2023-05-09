@@ -5,6 +5,7 @@
     "Long": -82.996934,
     "FlavorText": " Subway 🎼",
     "Link": "https://www.subway.com/",
+    "href":"subway.html",
     "Adress":"101 E Town St, Columbus, OH 43215",
     "Subway": true
   },
@@ -14,6 +15,7 @@
     "Long": -83.0150081,
     "FlavorText": " Subway :)",
     "Link": "https://www.subway.com/",
+    "href":"subway.html",
     "Adress":"1 E Campus View Blvd Suite 116, Columbus, OH 43235",
     "Subway": true
   },
@@ -23,6 +25,7 @@
     "Long": -83.0358222,
     "FlavorText": "subway🌐",
     "Link": "https://www.subway.com/",
+    "href":"subway.html",
     "Adress":"1093 Frank Rd, Columbus, OH 43223",
     "Subway": true
   },
@@ -32,6 +35,7 @@
     "Long": -83.0516656,
     "FlavorText": "subway🆗",
     "Link": "https://www.subway.com/",
+    "href":"subway.html",
     "Adress":"1194 Kenny Centre Mall Room # 122, Columbus, OH 43220",
     "Subway": true
   },
@@ -41,6 +45,7 @@
     "Long": -83.1203298,
     "FlavorText": "subway💯",
     "Link": "https://www.subway.com/",
+    "href":"subway.html",
     "Adress":"1221 Georgesville Rd, Columbus, OH 43228",
     "Subway": true
   },
@@ -50,6 +55,7 @@
     "Long":  -82.9861377,
     "FlavorText": "Subway©️",
     "Link": "https://www.subway.com/",
+    "href":"subway.html",
     "Adress":"1251 Morse Rd, Columbus, OH 43229",
     "Subway": true
   },
@@ -58,6 +64,7 @@
     "Lat": 40.0072525,
     "Long": -83.0463039,
     "FlavorText": "↓Subway↓",
+    "href":"subway.html",
     "Link": "https://www.subway.com/",
     "Adress":"1320 W Lane Ave, Columbus, OH 43221",
     "Subway": true
@@ -68,17 +75,34 @@
     "Long": -83.0463039,
     "FlavorText": "↑Subway↑",
     "Link": "https://www.subway.com/",
+    "href":"subway.html",
     "Adress":"1320 W Lane Ave, Columbus, OH 43221",
     "Subway": true
   },
   {
     "Name": "Natural History Museum",
+<<<<<<< Updated upstream
     "Lat": 39.9596599,
     "Long": -83.0070191,
+=======
+    "Lat": 39.965359,
+    "Long":  -82.973778,
+>>>>>>> Stashed changes
     "FlavorText": "🔞DINOSAURS🔞",
     "Link": "https://cosi.org/exhibits/dinos",
+    "href":"NaturalHistory.html",
     "Adress":"333 W Broad St, Columbus, OH 43215",
     "Subway": false
+  },
+  {
+    "Name": "Hospital",
+    "Lat": 39.959277,
+    "Long": -82.980705,
+    "FlavorText": "Incase of emergancy",
+    "Link": "https://www.columbus.gov/publichealth/",
+    "href":"hospital.html",
+    "Adress":"240 Parsons Ave, Columbus, OH 43215",
+    "Subway": true
   },
   {
     "Name": "",
@@ -87,6 +111,7 @@
     "FlavorText": "",
     "Link": "",
     "Adress":"",
+    "href":"",
     "Subway": true
   }
 ]
