@@ -48,9 +48,17 @@ body
 #navbar li
 {
     float: right;
-    box-shadow: 6px 8px #1117;
+    box-shadow: 8px 6px 8px #1117;
     height: 94px;
+    min-width: 120px;
     justify-content: center;
+    background: white;
+    transition: height .5s ease;
+}
+
+#navbar li:hover
+{
+    height: 110px;
 }
 
 #navbar div a
