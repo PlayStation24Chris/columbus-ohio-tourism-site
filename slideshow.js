@@ -1,6 +1,6 @@
 //get element(s) with slideshow class
 const slideshows = document.getElementsByClassName("slideshow");
-const imgCount = 2;
+const imgCount = slideshows[0].children.length;
 let active = 0;
 
 //make a function to refresh the active image
