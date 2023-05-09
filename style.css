@@ -124,7 +124,16 @@ body
 }
 
 /* MAP */
-
+.Pop-up{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+.Pop-up h1{
+font-size: 1.5rem;
+text-align: center;
+}
+.Pop-up h2{
+font-weight: 100;
+}
 #map
 {
     height: 90vh;

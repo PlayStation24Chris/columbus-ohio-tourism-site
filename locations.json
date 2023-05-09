@@ -97,16 +97,16 @@
     "Link": "https://www.columbus.gov/publichealth/",
     "href":"hospital.html",
     "Address":"240 Parsons Ave, Columbus, OH 43215",
-    "Subway": true
+    "Subway": false
   },
   {
-    "Name": "",
-    "Lat": 0,
-    "Long": 0,
-    "FlavorText": "",
-    "Link": "",
-    "Address":"",
-    "href":"",
-    "Subway": true
+    "Name": "Kroger",
+    "Lat": 39.989479,
+    "Long": -83.005341,
+    "FlavorText": "Grocery store visited by locals",
+    "Link": "kroger.com",
+    "Address":"1350 N High St, Columbus, OH 43201",
+    "href":"kroger.html",
+    "Subway": false
   }
 ]
