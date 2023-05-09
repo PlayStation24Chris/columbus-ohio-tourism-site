@@ -8,6 +8,7 @@ const locValues = Object.values(data);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     minZoom: 11,
+    interactive: true,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
@@ -22,7 +23,7 @@ let testIcon = L.icon({
     shadowAnchor: [4, 20],
     popupAnchor: [-5, -40]
 });
-
+/*
 L.marker([39.964821, -82.978752], {icon: testIcon}).addTo(map);// art museum 
 L.marker([39.959277, -82.980705], {icon: testIcon}).addTo(map);//hospitlal
 L.marker([39.989479,-83.005341], {icon: testIcon}).addTo(map);//kroger
@@ -32,7 +33,7 @@ L.marker([39.7389, -83.3441], {icon: testIcon}).addTo(map);//ohio is real
     .setLatLng([39.7389, -83.3441])
     .setContent('<p>Hello world!<br />This is a nice popup.</p>')
     .openOn(map);
-
+*/
 // create an orange rectangle
 
 // zoom the map to the rectangle bounds
@@ -44,7 +45,15 @@ L.marker([39.7389, -83.3441], {icon: testIcon}).addTo(map);//ohio is real
 //READ AND PLACE LOCATIONS
 for (let j=0; j<locValues.length; ++j)
 {
-    L.marker([locValues[j].Lat, locValues[j].Long], {icon: testIcon}).addTo(map);
+    let subString = "Yes!";
+    if (!locValues[j].Subway)
+    {
+        subString = "No."
+    }
+
+    L.marker([locValues[j].Lat, locValues[j].Long], {icon: testIcon}).addTo(map).on('click', function(){
+        L.popup().setLatLng([locValues[j].Lat, locValues[j].Long]).setContent(locValues[j].FlavorText + "<br>Address: " + locValues[j].Adress + "<br>Link: <a target=\"_blank\" href=\"" + locValues[j].Link + "\">Visit Here</a><br>Is this a subway? " + subString).openOn(map);
+    });
 }
 
 //NOTES
