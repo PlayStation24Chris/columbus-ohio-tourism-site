@@ -40,7 +40,7 @@
     "Subway": true
   },
   {
-    "Name": "",
+    "Name": "Subway",
     "Lat": 39.9275356,
     "Long": -83.1203298,
     "FlavorText": "subway💯",
@@ -99,6 +99,25 @@
     "Address":"240 Parsons Ave, Columbus, OH 43215",
     "Subway": false
   },
+    {
+    "Name": "Hell Is real Sign",
+    "Lat": 39.7389,
+    "Long": -83.3441,
+    "FlavorText": "it's a real sign",
+    "Link": "#",
+    "href":"OhioThings.html",
+    "Address":" Mt Sterling, OH 43143",
+    "Subway": false
+  },    {
+    "Name": "Ohio State Fair",
+    "Lat": 39.999090,
+    "Long": -82.990140,
+    "FlavorText": "Experience the state famous fair",
+    "Link": "https://www.ohiostatefair.com/",
+    "href":"OhioFair.html",
+    "Address":" 717 East 17th Avenue Columbus, Ohio 43211",
+    "Subway": false
+  },
   {
     "Name": "Kroger",
     "Lat": 39.989479,
@@ -108,5 +127,15 @@
     "Address":"1350 N High St, Columbus, OH 43201",
     "href":"kroger.html",
     "Subway": false
-  }
+  },
+  {
+    "Name": "Otherworld",
+    "Lat": 39.922150,
+    "Long": -82.836021,
+    "FlavorText": "Insanity",
+    "Link": "https://www.otherworld.com/main/home-ohio",
+    "Address":"5819 Chantry Dr, Columbus, OH 43232",
+    "href":"OtherWorld.html",
+    "Subway": false
+      }
 ]
