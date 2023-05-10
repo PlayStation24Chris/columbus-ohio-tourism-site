@@ -24,25 +24,30 @@ let testIcon = L.icon({
   shadowAnchor: [4, 20],
   popupAnchor: [-5, -40],
 });
-/*
-L.marker([39.989479,-83.005341], {icon: testIcon}).addTo(map);//kroger
-L.marker([39.7389, -83.3441], {icon: testIcon}).addTo(map);//ohio is real
-// add popup
- L.popup()
-    .setLatLng([39.7389, -83.3441])
-    .setContent('<p>Hello world!<br />This is a nice popup.</p>')
-    .openOn(map);
-*/
-// create an orange rectangle
-
-// zoom the map to the rectangle bounds
-//map.fitBounds(bounds);
-
-// zoom the map to the polyline
-//map.fitBounds(polyline.getBounds());
 
 //READ AND PLACE LOCATIONS
 for (let j = 0; j < locValues.length; ++j) {
+  if(locValues[j].Subway){
+testIcon= L.icon({
+  iconUrl: "../Resources/Images/marker.png",
+  iconSize: [25, 48],
+  shadowSize: [38, 40],
+  iconAnchor: [19, 30],
+  shadowAnchor: [4, 20],
+  popupAnchor: [-5, -40],
+})
+  }
+  else{
+   testIcon= L.icon({
+      iconUrl: "../Resources/Images/WhatsApp.svg.png",
+    
+      iconSize: [25, 48],
+      shadowSize: [38, 40],
+      iconAnchor: [19, 30],
+      shadowAnchor: [4, 20],
+      popupAnchor: [-5, -40],
+    })
+  }
   L.marker([locValues[j].Lat, locValues[j].Long], { icon: testIcon })
     .addTo(map)
     .on("click", function(){  L.popup()
@@ -69,7 +74,7 @@ for (let j = 0; j < locValues.length; ++j) {
 //    .setLatLng([locValues[j].Lat, locValues[j].Long])
 //    .setContent("<h1>a</h1>")
 //}
-
+//i can  speeck
 //NOTES
 //39.989479,-83.005341
 //add marker at 39.950010 -82.823420
