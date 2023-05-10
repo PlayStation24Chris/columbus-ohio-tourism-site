@@ -32,7 +32,7 @@ body
     background-color: white;
     color: var(--brandG);
     z-index: 999;
-    position: fixed;
+    position: sticky;
     margin-top: 0;
 }
 
