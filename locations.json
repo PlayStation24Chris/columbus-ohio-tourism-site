@@ -15,7 +15,7 @@
     "Long": -83.0150081,
     "FlavorText": " Subway :)",
     "Link": "https://www.subway.com/",
-    "href":"subway.html?address=_1_E_Campus_View_Blvd_Suite_116_Columbus_OH_43235",
+    "href":"subway.html?address=1_E_Campus_View_Blvd_Suite_116_Columbus_OH_43235",
     "Address":"1 E Campus View Blvd Suite 116, Columbus, OH 43235",
     "Subway": true
   },
@@ -25,7 +25,7 @@
     "Long": -83.0358222,
     "FlavorText": "subway🌐",
     "Link": "https://www.subway.com/",
-    "href":"subway.html?address=_1093_Frank_Rd_Columbus_OH_43223",
+    "href":"subway.html?address=1093_Frank_Rd_Columbus_OH_43223",
     "Address":"1093 Frank Rd, Columbus, OH 43223",
     "Subway": true
   },
