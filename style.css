@@ -114,6 +114,12 @@ body
     text-align: center;
 }
 
+ol
+{
+    text-align: left;
+    max-width: 35vw;
+}
+
 /* SLIDESHOW */
 
 .slideshow img
