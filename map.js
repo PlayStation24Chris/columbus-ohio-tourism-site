@@ -6,9 +6,11 @@
 let map = L.map("map").setView([39.960938, -83.017194], 11);
 
 //import data
-import data from "../locations.json" assert { type: "json" };
-const locValues = Object.values(data);
-
+import localData from "../locations.json" assert { type: "json" };
+const locValues = Object.values(localData);
+import SubwayData from "/YelpSubway.json" assert { type: "json" };
+const subValues = Object.values(SubwayData);
+console.log(SubwayData.businesses[1])
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
   minZoom: 11,
@@ -31,27 +33,14 @@ let testIcon = L.icon({
 
 //READ AND PLACE LOCATIONS
 for (let j = 0; j < locValues.length; ++j) {
-  if(locValues[j].Subway){
 testIcon= L.icon({
-  iconUrl: "../Resources/Images/marker.png",
+  iconUrl: "../Resources/Images/whatsapp.svg.png",
   iconSize: [25, 48],
   shadowSize: [38, 40],
   iconAnchor: [19, 30],
   shadowAnchor: [4, 20],
   popupAnchor: [-5, -40],
 })
-  }
-  else{
-   testIcon= L.icon({
-      iconUrl: "../Resources/Images/WhatsApp.svg.png",
-    
-      iconSize: [25, 48],
-      shadowSize: [38, 40],
-      iconAnchor: [19, 30],
-      shadowAnchor: [4, 20],
-      popupAnchor: [-5, -40],
-    })
-  }
   L.marker([locValues[j].Lat, locValues[j].Long], { icon: testIcon })
     .addTo(map)
     .on("click", function(){  L.popup()
@@ -71,14 +60,35 @@ testIcon= L.icon({
         )
         .openOn(map);
     })
-    //.on("hover", setHover(j));
-}
-//function setHover(j) {
-//    L.popup()
-//    .setLatLng([locValues[j].Lat, locValues[j].Long])
-//    .setContent("<h1>a</h1>")
-//}
-//i can  speeck
-//NOTES
-//39.989479,-83.005341
-//add marker at 39.950010 -82.823420
+    }
+//load the sub way
+for (let j=0;j<subValues.length;++j){
+  
+testIcon= L.icon({
+  iconUrl: "../Resources/Images/marker.png",
+  iconSize: [25, 48],
+  shadowSize: [38, 40],
+  iconAnchor: [19, 30],
+  shadowAnchor: [4, 20],
+  popupAnchor: [-5, -40],
+})
+  L.marker([subValues[j].coordinates.latitude, subValues[j].coordinates.longitude], { icon: testIcon })
+    .addTo(map)
+    .on("click", function(){  L.popup()
+        .setLatLng([subValues[j].coordinates])
+        .setContent(
+          '<div class="Pop-up "><h1>' +
+          subValues[j].name +
+            "</h1>" +
+            "<h2>" +
+            subValues[j].rating +
+            "/5 </h2>" +
+            "<p>Address: " +
+            subValues[j].display_address[0] +
+            '</p>Learn More!: <a  href="subway.html' +
+            
+            '">Click here</a></div>'
+        )
+        .openOn(map);
+    })
+    }
