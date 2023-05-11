@@ -6,6 +6,7 @@ function parseInfo()
 {
     let params = new URLSearchParams(location.search);
     let address = params.get('address');
+    address = address.split('_').join(' ');
 
     output = address;
 }
