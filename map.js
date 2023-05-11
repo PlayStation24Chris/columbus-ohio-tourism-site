@@ -1,7 +1,7 @@
 // yelp fusion key 
 //1q5Wyuia20sg6oTNXdP3N16DVxyXOgjddjzmQURK9Y1KzVBBFK5VvoQ_XAuamKYG1ZTBImLDYQ0rtVsqgeyCivZeEUGgD_1vc1ozyrmFI2wnBNEUzDnDWQKRce5cZHYx
 // client id :LybLDQc8dmEyo1TR3FJhrA
-
+//docs https://docs.developer.yelp.com/docs/fusion-authentication
 //Initialize map
 let map = L.map("map").setView([39.960938, -83.017194], 11);
 
