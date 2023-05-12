@@ -8,7 +8,9 @@ let map = L.map("map").setView([39.960938, -83.017194], 11);
 //import data
 import localData from "../locations.json" assert { type: "json" };
 const locValues = Object.values(localData);
-import SubwayData from "/YelpSubway.json" assert { type: "json" };
+
+import SubwayData from "../YelpSubway.json" assert { type: "json" };
+
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
   minZoom: 11,
@@ -31,14 +33,6 @@ let testIcon = L.icon({
 
 //READ AND PLACE LOCATIONS
 for (let j = 0; j < locValues.length; ++j) {
-  testIcon = L.icon({
-    iconUrl: "../Resources/Images/whatsapp.svg.png",
-    iconSize: [25, 48],
-    shadowSize: [38, 40],
-    iconAnchor: [19, 30],
-    shadowAnchor: [4, 20],
-    popupAnchor: [-5, -40],
-  });
   L.marker([locValues[j].Lat, locValues[j].Long], { icon: testIcon })
     .addTo(map)
     .on("click", function () {
@@ -93,7 +87,7 @@ for (let j = 0; j < SubwayData.businesses.length; ++j) {
             "/5 </h2>" +
             "<p>Address: " +
             SubwayData.businesses[j].location.address1 +
-            '</p>Learn More<a href="google.com">' +
+            '</p>Learn More<a href="subway.html?address='+ SubwayData.businesses[j].location.display_address.join('_') +'">' +
             " Click Here!" +
             "</a></div>"
         )
