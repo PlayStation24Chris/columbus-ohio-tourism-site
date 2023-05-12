@@ -35,4 +35,4 @@ function sortSubways(loc)
 }
 
 parseInfo();
-console.log(endOutput.location.display_address);
+console.log(endOutput.id); //use in API call
