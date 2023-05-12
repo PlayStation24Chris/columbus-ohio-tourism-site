@@ -80,7 +80,10 @@ for (let j = 0; j < SubwayData.businesses.length; ++j) {
     .addTo(map)
     .on("click", function () {
       L.popup()
-        .setLatLng([SubwayData.businesses[j].coordinates])
+        .setLatLng([
+          SubwayData.businesses[j].coordinates.latitude,
+          SubwayData.businesses[j].coordinates.longitude,
+        ])
         .setContent(
           '<div class="Pop-up "><h1>' +
             SubwayData.businesses[j].name +
@@ -89,8 +92,10 @@ for (let j = 0; j < SubwayData.businesses.length; ++j) {
             SubwayData.businesses[j].rating +
             "/5 </h2>" +
             "<p>Address: " +
-            SubwayData.businesses[j].address1 +
-            "</p>Learn More<a href=\"google.com\">"+ "a"+"</a></div>"
+            SubwayData.businesses[j].location.address1 +
+            '</p>Learn More<a href="google.com">' +
+            " Click Here!" +
+            "</a></div>"
         )
         .openOn(map);
     });
