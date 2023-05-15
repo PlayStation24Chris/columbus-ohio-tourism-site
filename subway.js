@@ -36,3 +36,9 @@ function sortSubways(loc)
 
 parseInfo();
 console.log(endOutput.id); //use in API call
+
+const imgEl = document.getElementById('subwayImg');
+if (endOutput.image_url != "")
+{
+    imgEl.src = endOutput.image_url;
+}
