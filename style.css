@@ -4,6 +4,17 @@
     --brandY: #ffc600;
 }
 
+@font-face {
+    font-family: 'Helvetica';
+    src: url(Resources/Fonts/Helvetica\ CE\ Medium.otf);
+}
+
+*
+{
+    
+    font-family: 'Helvetica';
+}
+
 html
 {
     scroll-behavior: smooth;
