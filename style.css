@@ -36,8 +36,7 @@ body
 
 #navbar
 {
-    display: grid;
-    grid-template-columns: 3fr 1fr;
+    display: block;
     height: 100px;
     width: 100vw;
     background-color: white;
@@ -47,21 +46,28 @@ body
     margin-top: 0;
 }
 
+.navlinks
+{
+    height: inherit;
+    margin: 0;
+    float: right;
+}
+
 #navbar ul
 {
     margin: 0;
     list-style-type: none;
     float: right;
-    height: 100px;
-    width: 50vw;
+    height: inherit;
+    max-width: 50vw;
 }
 
 #navbar li
 {
     float: right;
     box-shadow: 8px 6px 8px #1117;
-    height: 100px;
-    min-width: 120px;
+    height: inherit;
+    width: 10vw;
     justify-content: center;
     background: white;
     transition: height .5s ease;
@@ -75,7 +81,7 @@ body
 #navbar div a
 {
     display: block;
-    font-size: 2vw;
+    font-size: calc(10px + 1vw);
     text-decoration: none;
     text-align: center;
     color: var(--brandG);
@@ -86,12 +92,33 @@ body
 .logo img
 {
     max-height: 100px;
+    height: 10vw;
     max-width: 45vw;
 }
 
 #hidden
 {
     height: 100px;
+}
+
+@media (max-aspect-ratio: 1/1)
+{
+    #navbar
+    {
+        height: 10vw;
+        min-height: 40px;
+    }
+
+    #navbar div a
+    {
+        height: 20px;
+        padding: 10px 8px;
+    }
+
+    #navbar li:hover
+    {
+        height: 60px;
+    }
 }
 
 /* BODIES AND CONTAINERS */
@@ -123,6 +150,9 @@ body
 {
     max-height: 300px;
     max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .text
@@ -135,6 +165,14 @@ ol
 {
     text-align: left;
     max-width: 35vw;
+}
+
+@media (max-aspect-ratio: 1/1)
+{
+    .double
+    {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* SLIDESHOW */
