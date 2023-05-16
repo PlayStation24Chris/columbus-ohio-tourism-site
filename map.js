@@ -3,7 +3,10 @@
 // client id :LybLDQc8dmEyo1TR3FJhrA
 //docs https://docs.developer.yelp.com/docs/fusion-authentication
 //Initialize map
+
 let map = L.map("map").setView([39.960938, -83.017194], 11);
+
+let funkymode= null;
 
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
@@ -35,7 +38,9 @@ async function loadJSON()
   
   response = await fetch('../YelpSubway.json');
   const SubwayData = await response.json();
-
+  response = await fetch('../funkymode.json');
+  funkymode = await response.json();
+  console.log(funkymode)
   fillMap(Object.values(localData), SubwayData);
 }
 
@@ -110,3 +115,44 @@ function fillMap(locValues, SubwayData)
       });
   }
 }
+
+
+addEventListener('click', function Funkymode(){
+  for (let j = 0; j < funkymode.businesses.length; ++j) {
+    testIcon = L.icon({
+      iconUrl: "../Resources/Images/pngegg.png",
+      iconSize: [25, 48],
+      shadowSize: [38, 40],
+      iconAnchor: [19, 30],
+      shadowAnchor: [4, 20],
+      popupAnchor: [-5, -40],
+    });
+    L.marker(
+      [
+        funkymode.businesses[j].coordinates.latitude,
+        funkymode.businesses[j].coordinates.longitude,
+      ],
+      { icon: testIcon }
+    )
+      .addTo(map)
+      .on("click", function () {
+        L.popup()
+          .setLatLng([
+            funkymode.businesses[j].coordinates.latitude,
+            funkymode.businesses[j].coordinates.longitude,
+          ])
+          .setContent(
+            '<div class="Pop-up "><h1>' +
+            funkymode.businesses[j].name +
+              "</h1>" +
+              "<h2>" +
+              funkymode.businesses[j].rating +
+              "/5 </h2>" +
+              "<p>Address: " +
+              funkymode.businesses[j].location.address1 +
+              "</a></div>"
+          )
+          .openOn(map);
+      });
+  }
+});

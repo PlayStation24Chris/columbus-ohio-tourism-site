@@ -1,0 +1,2171 @@
+{
+    "businesses": [
+      {
+        "id": "A8gi6bZw5uYwEGx_ZGVPbA",
+        "alias": "third-and-hollywood-columbus-2",
+        "name": "Third and Hollywood",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ERhqjOyxwP6GkOVEQmToyA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/third-and-hollywood-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 812,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.984957,
+          "longitude": -83.044013
+        },
+        "transactions": [
+          "restaurant_reservation",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1433 W 3rd Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43212",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1433 W 3rd Ave",
+            "Columbus, OH 43212"
+          ]
+        },
+        "phone": "+16144880303",
+        "display_phone": "(614) 488-0303",
+        "distance": 4888.012776824378
+      },
+      {
+        "id": "B_W4Nq3-iFWV2ato5AjXTw",
+        "alias": "the-refectory-restaurant-columbus",
+        "name": "The Refectory Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6E2ITsd4G5DhNB2a-C0NyA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-refectory-restaurant-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 472,
+        "categories": [
+          {
+            "alias": "french",
+            "title": "French"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "lounges",
+            "title": "Lounges"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 40.0637684,
+          "longitude": -83.0482567
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$$",
+        "location": {
+          "address1": "1092 Bethel Rd",
+          "address2": null,
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43220",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1092 Bethel Rd",
+            "Columbus, OH 43220"
+          ]
+        },
+        "phone": "+16144519774",
+        "display_phone": "(614) 451-9774",
+        "distance": 7148.8514884334345
+      },
+      {
+        "id": "OJqn7poj4dTCpRDDa2tX-Q",
+        "alias": "hubbard-grille-columbus-3",
+        "name": "Hubbard Grille",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J-0HCbYMT8shZXqoIuCC2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hubbard-grille-columbus-3?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 507,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.97861,
+          "longitude": -83.00401
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "793 N High St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "793 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16142915000",
+        "display_phone": "(614) 291-5000",
+        "distance": 3730.226338882613
+      },
+      {
+        "id": "b5XdrFaBWwMleq3gFnA4_A",
+        "alias": "mitchells-ocean-club-columbus",
+        "name": "Mitchell's Ocean Club",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BbuKcke2WgnJlrn_2xX5QQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mitchells-ocean-club-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 592,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 40.050002326331615,
+          "longitude": -82.91493546407665
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$$",
+        "location": {
+          "address1": "4002 Easton Sta",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43219",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "4002 Easton Sta",
+            "Columbus, OH 43219"
+          ]
+        },
+        "phone": "+16144162582",
+        "display_phone": "(614) 416-2582",
+        "distance": 8293.122819364333
+      },
+      {
+        "id": "baiTD2N5oXlol0IpPsopvg",
+        "alias": "jeff-rubys-steakhouse-columbus-columbus-5",
+        "name": "Jeff Ruby's Steakhouse - Columbus",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R43HjTwDy5jZt42Qp5-52Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jeff-rubys-steakhouse-columbus-columbus-5?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 341,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.96878561474172,
+          "longitude": -82.99945535640397
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$$",
+        "location": {
+          "address1": "89 E Nationwide Blvd",
+          "address2": "",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "89 E Nationwide Blvd",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16146867800",
+        "display_phone": "(614) 686-7800",
+        "distance": 4793.327562382716
+      },
+      {
+        "id": "VVlOfK7Cz-1s3p8B8Fxbkg",
+        "alias": "service-bar-columbus",
+        "name": "Service Bar",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OgXqDDrZjdlMZyx6cE4owA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/service-bar-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 122,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.9874821290394,
+          "longitude": -83.0047189788486
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1230 Courtland Ave",
+          "address2": "",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43201",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1230 Courtland Ave",
+            "Columbus, OH 43201"
+          ]
+        },
+        "phone": "+16149471231",
+        "display_phone": "(614) 947-1231",
+        "distance": 2762.5271177665663
+      },
+      {
+        "id": "OODadwHfqrUk0WAs07JBkg",
+        "alias": "lindeys-columbus",
+        "name": "Lindey's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cV2vRUP777f3wN7ZFtp6Pw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lindeys-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 916,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.95069,
+          "longitude": -82.99368
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "169 E Beck St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43206",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "169 E Beck St",
+            "Columbus, OH 43206"
+          ]
+        },
+        "phone": "+16142284343",
+        "display_phone": "(614) 228-4343",
+        "distance": 6822.0052426501425
+      },
+      {
+        "id": "m3iPaN1GaujLel9hY8M61Q",
+        "alias": "the-avenue-steak-tavern-grandview-heights-2",
+        "name": "The Avenue Steak Tavern",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FHFSRNWRjJfcfmYQn_HBXA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-avenue-steak-tavern-grandview-heights-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 263,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.984458,
+          "longitude": -83.045073
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1307 Grandview Ave 3013",
+          "address2": "Ste 3013",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43212",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1307 Grandview Ave 3013",
+            "Ste 3013",
+            "Columbus, OH 43212"
+          ]
+        },
+        "phone": "+16144859447",
+        "display_phone": "(614) 485-9447",
+        "distance": 4991.24785854446
+      },
+      {
+        "id": "dSg4vJnNTrlz6a7I4ku8Ew",
+        "alias": "plas-food-and-drink-columbus",
+        "name": "Plas Food and Drink",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FKLFAAXhGkwPQCaHif5-Nw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/plas-food-and-drink-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 83,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.98667783589776,
+          "longitude": -83.00473515092501
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "21 E 5th Ave",
+          "address2": "Ste 101",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43201",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "21 E 5th Ave",
+            "Ste 101",
+            "Columbus, OH 43201"
+          ]
+        },
+        "phone": "+16147255700",
+        "display_phone": "(614) 725-5700",
+        "distance": 2850.6851425118075
+      },
+      {
+        "id": "c6PwhqCOxpJruHJeid8AEQ",
+        "alias": "rooh-columbus-columbus",
+        "name": "Rooh Columbus",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cU9Wjd40vW0vYlDcoTh2gg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rooh-columbus-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 211,
+        "categories": [
+          {
+            "alias": "indpak",
+            "title": "Indian"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          },
+          {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.9763662838036,
+          "longitude": -83.0037052184343
+        },
+        "transactions": [
+          "pickup"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "685 N High St",
+          "address2": "",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "685 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16149728678",
+        "display_phone": "(614) 972-8678",
+        "distance": 3973.228706464586
+      },
+      {
+        "id": "143NEW78kBoKdpPK8UsWag",
+        "alias": "basi-italia-columbus",
+        "name": "Basi Italia",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Lkn7UUuK1LJUkH567SSLJw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/basi-italia-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 365,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.9781837463379,
+          "longitude": -83.0107192993164
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "811 Highland St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "811 Highland St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16142947383",
+        "display_phone": "(614) 294-7383",
+        "distance": 3886.258318178175
+      },
+      {
+        "id": "f7rCsRKOv7l54UGrBk1Ltw",
+        "alias": "martini-modern-italian-columbus",
+        "name": "Martini Modern Italian",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FbChtA0qBKynWsio4SRlhg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/martini-modern-italian-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 558,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.9714399,
+          "longitude": -83.0028301
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "445 N High St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "445 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16142248259",
+        "display_phone": "(614) 224-8259",
+        "distance": 4511.712103620802
+      },
+      {
+        "id": "hqx382sZ_5WHK8W5D4ATGQ",
+        "alias": "hyde-park-prime-steakhouse-columbus",
+        "name": "Hyde Park Prime Steakhouse",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4eNIujKCgrMDhsVx1UpUXw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hyde-park-prime-steakhouse-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 379,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.97401894291586,
+          "longitude": -83.00311615121468
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "569 N High St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "569 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16142242204",
+        "display_phone": "(614) 224-2204",
+        "distance": 4228.004009989401
+      },
+      {
+        "id": "6Po-H6z_RIChd31MGWdeyQ",
+        "alias": "the-1126-restaurant-columbus-2",
+        "name": "The 1126 Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U848m456kEkC2NBJoq2z5w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-1126-restaurant-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 305,
+        "categories": [
+          {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.98538,
+          "longitude": -83.00478
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1126 North High St",
+          "address2": null,
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43201",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1126 North High St",
+            "Columbus, OH 43201"
+          ]
+        },
+        "phone": "+16147253435",
+        "display_phone": "(614) 725-3435",
+        "distance": 2994.775809602635
+      },
+      {
+        "id": "K1l8qMMG8Jq75_VkanRBhA",
+        "alias": "veritas-columbus-2",
+        "name": "Veritas",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HwFma3bBazwIkh1gl4JEzg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/veritas-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 134,
+        "categories": [
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          },
+          {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.963419217634026,
+          "longitude": -83.0011173
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "11 W Gay St",
+          "address2": "",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "11 W Gay St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16147453864",
+        "display_phone": "(614) 745-3864",
+        "distance": 5393.627835995994
+      },
+      {
+        "id": "o4kF_b-ChUzozUsfZ-eO4w",
+        "alias": "kais-crab-boil-columbus",
+        "name": "Kai's Crab Boil",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DjFtKKeRDq_oSxVifqhCCg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kais-crab-boil-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 489,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "cajun",
+            "title": "Cajun/Creole"
+          },
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 40.06128,
+          "longitude": -83.04251
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "839 Bethel Rd",
+          "address2": null,
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43214",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "839 Bethel Rd",
+            "Columbus, OH 43214"
+          ]
+        },
+        "phone": "+16148690652",
+        "display_phone": "(614) 869-0652",
+        "distance": 6640.134118758341
+      },
+      {
+        "id": "H214lQlsvG1ImyxoP_CwVA",
+        "alias": "rh-rooftop-restaurant-columbus-columbus-6",
+        "name": "RH Rooftop Restaurant Columbus",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZkAS-DW--MaK6JO1aBtmJA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rh-rooftop-restaurant-columbus-columbus-6?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 204,
+        "categories": [
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.05455827061781,
+          "longitude": -82.91178273131752
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "4120 Worth Ave",
+          "address2": null,
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43219",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "4120 Worth Ave",
+            "Columbus, OH 43219"
+          ]
+        },
+        "phone": "+16149688830",
+        "display_phone": "(614) 968-8830",
+        "distance": 8787.59564681202
+      },
+      {
+        "id": "W-LQnIsAwUXIafRMbbge3Q",
+        "alias": "nicola-restaurant-and-bar-columbus",
+        "name": "Nicola Restaurant and Bar",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-vWxosmS-2YGMH4qrGx82w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/nicola-restaurant-and-bar-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 177,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.052874,
+          "longitude": -83.06635
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "4740 Reed Rd",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43220",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "4740 Reed Rd",
+            "Columbus, OH 43220"
+          ]
+        },
+        "phone": "+16144597000",
+        "display_phone": "(614) 459-7000",
+        "distance": 7347.2758918604
+      },
+      {
+        "id": "kJYukEW2Q3Vlvg6xNVXxvw",
+        "alias": "pasqualones-ristorante-columbus",
+        "name": "Pasqualone's Ristorante",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6_WprjmK67wPcnn_wYpgJQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pasqualones-ristorante-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 104,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          },
+          {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 40.0855757679483,
+          "longitude": -82.9463730633345
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "5766 Emporium Sq",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43231",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "5766 Emporium Sq",
+            "Columbus, OH 43231"
+          ]
+        },
+        "phone": "+16148902070",
+        "display_phone": "(614) 890-2070",
+        "distance": 9540.466289354481
+      },
+      {
+        "id": "as0JDp2cefQp-uv8ywecnw",
+        "alias": "lupo-columbus",
+        "name": "Lupo",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9aaFhfSOvY18nniFS3INsw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lupo-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 111,
+        "categories": [
+          {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.99962,
+          "longitude": -83.0618
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "2124 Arlington Ave",
+          "address2": "",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43221",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "2124 Arlington Ave",
+            "Columbus, OH 43221"
+          ]
+        },
+        "phone": "+16149146134",
+        "display_phone": "(614) 914-6134",
+        "distance": 5547.458035645423
+      },
+      {
+        "id": "ewFMsE_X1PcS09yuO6eklA",
+        "alias": "j-gilberts-wood-fired-grill-columbus",
+        "name": "J Gilbert's Wood Fired Grill",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JA0jF51CUf4H-lJorKZdBg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/j-gilberts-wood-fired-grill-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 419,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "bars",
+            "title": "Bars"
+          },
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.1178550513453,
+          "longitude": -83.0148794540367
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1 E Campus View Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43235",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1 E Campus View Blvd",
+            "Columbus, OH 43235"
+          ]
+        },
+        "phone": "+16148409090",
+        "display_phone": "(614) 840-9090",
+        "distance": 11863.461493735387
+      },
+      {
+        "id": "6rUq6dcPLB7c-W8-eRAuqA",
+        "alias": "fyr-short-north-columbus",
+        "name": "FYR Short North",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rNjZNZ3xLTUDNN6GMTu4nQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fyr-short-north-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 57,
+        "categories": [
+          {
+            "alias": "latin",
+            "title": "Latin American"
+          },
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.97085809649955,
+          "longitude": -83.00177227085284
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": "404 N High St",
+          "address2": "",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "404 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16144845286",
+        "display_phone": "(614) 484-5286",
+        "distance": 4570.0956808088185
+      },
+      {
+        "id": "7aSDiDqA77G4Lx92VmVjZg",
+        "alias": "the-kitchen-columbus",
+        "name": "The Kitchen",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nv7ucFvwj7EECqDYMdb-lA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-kitchen-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 74,
+        "categories": [
+          {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+          },
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "cookingclasses",
+            "title": "Cooking Classes"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.9524918,
+          "longitude": -82.9922867
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "231 E Livingston Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "231 E Livingston Ave",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16142258940",
+        "display_phone": "(614) 225-8940",
+        "distance": 6625.8981359251675
+      },
+      {
+        "id": "BD3_guO6iMr0Yx_Ryc7geQ",
+        "alias": "ruths-chris-steak-house-columbus-4",
+        "name": "Ruth's Chris Steak House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eaA_dc15ztDqq1KARwmzKg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ruths-chris-steak-house-columbus-4?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 138,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.9727501,
+          "longitude": -83.0028838
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "511 N High St",
+          "address2": null,
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "511 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16149275663",
+        "display_phone": "(614) 927-5663",
+        "distance": 4366.866259706687
+      },
+      {
+        "id": "Bxy5H6uUh3laIhAWxWi-lg",
+        "alias": "mandrake-rooftop-columbus",
+        "name": "Mandrake Rooftop",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f_wYwMRWJIVYcepym-zORA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mandrake-rooftop-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 83,
+        "categories": [
+          {
+            "alias": "sushi",
+            "title": "Sushi Bars"
+          },
+          {
+            "alias": "tapasmallplates",
+            "title": "Tapas/Small Plates"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 39.97889687623919,
+          "longitude": -83.00350473213734
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": "810 N High St",
+          "address2": null,
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "810 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16147931500",
+        "display_phone": "(614) 793-1500",
+        "distance": 3691.6672173474367
+      },
+      {
+        "id": "yKyKvEqumEes4FOQYi6dlg",
+        "alias": "the-top-steakhouse-columbus",
+        "name": "The Top Steakhouse",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7omYstcc_f2ESPNQQNghig/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-top-steakhouse-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 354,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "jazzandblues",
+            "title": "Jazz & Blues"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.95652,
+          "longitude": -82.9210499
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "2891 E Main St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43209",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "2891 E Main St",
+            "Columbus, OH 43209"
+          ]
+        },
+        "phone": "+16142318238",
+        "display_phone": "(614) 231-8238",
+        "distance": 9038.000671880396
+      },
+      {
+        "id": "aCLLjwPKvA4w294TdtPx1A",
+        "alias": "mitchells-steakhouse-columbus",
+        "name": "Mitchell's Steakhouse",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IoA_5ux6x4ufBQkIn0dtFQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mitchells-steakhouse-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 273,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 39.9635158,
+          "longitude": -82.9983656108379
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "45 N 3rd St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "45 N 3rd St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16146212333",
+        "display_phone": "(614) 621-2333",
+        "distance": 5378.883661696907
+      },
+      {
+        "id": "jOqoW6SRYt4aBYxGWqxiHg",
+        "alias": "j-alexanders-restaurant-columbus-4",
+        "name": "J. Alexander's Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HlnEBb15nbNKvef9ZmtrUA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/j-alexanders-restaurant-columbus-4?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 200,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.11739,
+          "longitude": -83.0134
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": "7550 Vantage Dr",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43235",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "7550 Vantage Dr",
+            "Columbus, OH 43235"
+          ]
+        },
+        "phone": "+16148471166",
+        "display_phone": "(614) 847-1166",
+        "distance": 11798.332711293022
+      },
+      {
+        "id": "yoJY6Yz20hLeEK_HQ-odYA",
+        "alias": "the-keep-columbus",
+        "name": "The Keep",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eJL93MwVPXj0x4n523OJBQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-keep-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 209,
+        "categories": [
+          {
+            "alias": "bars",
+            "title": "Bars"
+          },
+          {
+            "alias": "french",
+            "title": "French"
+          },
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 39.9622542333732,
+          "longitude": -83.0023027583957
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "50 W Broad St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "50 W Broad St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16147450322",
+        "display_phone": "(614) 745-0322",
+        "distance": 5527.821941235623
+      },
+      {
+        "id": "RPWda257pWgTplLP5mK34g",
+        "alias": "gallerie-bar-and-bistro-columbus-2",
+        "name": "Gallerie Bar & Bistro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mi9BXG0beVSbodMjMQMq7Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gallerie-bar-and-bistro-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 113,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 39.9709063752227,
+          "longitude": -83.0026007552948
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "401 N High St",
+          "address2": "Second Fl",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "401 N High St",
+            "Second Fl",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16144845287",
+        "display_phone": "(614) 484-5287",
+        "distance": 4569.378728187913
+      },
+      {
+        "id": "dJWEzqPtq_g6Nki_cXdHGQ",
+        "alias": "camerons-american-bistro-worthington",
+        "name": "Cameron's American Bistro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ac__OBBeZu-FphLZm_mZkg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/camerons-american-bistro-worthington?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 187,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "bars",
+            "title": "Bars"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.08966250976736,
+          "longitude": -83.048629917791
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "2185 W Dublin Granville Rd",
+          "address2": "",
+          "address3": "",
+          "city": "Worthington",
+          "zip_code": "43085",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "2185 W Dublin Granville Rd",
+            "Worthington, OH 43085"
+          ]
+        },
+        "phone": "+16148853663",
+        "display_phone": "(614) 885-3663",
+        "distance": 9637.354800170784
+      },
+      {
+        "id": "G96T6B_DaxdDnuC1NugAIg",
+        "alias": "buckeye-bourbon-house-columbus",
+        "name": "Buckeye Bourbon House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i5JZSGx5Sn4gnx7Q6aoj6A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/buckeye-bourbon-house-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 126,
+        "categories": [
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          },
+          {
+            "alias": "lounges",
+            "title": "Lounges"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 39.96411,
+          "longitude": -82.99985
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "36 E Gay St",
+          "address2": null,
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "36 E Gay St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16144562020",
+        "display_phone": "(614) 456-2020",
+        "distance": 5341.172963815605
+      },
+      {
+        "id": "F3N4XgvVa7dDciLllPs6eg",
+        "alias": "hyde-park-prime-steakhouse-columbus-5",
+        "name": "Hyde Park Prime Steakhouse",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TZ9xvyU0OPUMpeS9nGMi7g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hyde-park-prime-steakhouse-columbus-5?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 118,
+        "categories": [
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.051991,
+          "longitude": -83.062802
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1615 Old Henderson Rd",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43220",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1615 Old Henderson Rd",
+            "Columbus, OH 43220"
+          ]
+        },
+        "phone": "+16144423310",
+        "display_phone": "(614) 442-3310",
+        "distance": 7050.3219652348635
+      },
+      {
+        "id": "nJDgrbYq11Azj39lcT8WYQ",
+        "alias": "rodizio-grill-columbus",
+        "name": "Rodizio Grill",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gojerlor6hl_Jk3pzfBscA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rodizio-grill-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 252,
+        "categories": [
+          {
+            "alias": "brazilian",
+            "title": "Brazilian"
+          },
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "buffets",
+            "title": "Buffets"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 39.9682698315263,
+          "longitude": -83.005733974278
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "125 W Nationwide Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "125 W Nationwide Blvd",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+16142414400",
+        "display_phone": "(614) 241-4400",
+        "distance": 4887.494825683269
+      },
+      {
+        "id": "SRIhCTfwxFairf2cCC0h-g",
+        "alias": "the-melting-pot-columbus-3",
+        "name": "The Melting Pot",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CrYNCjpiMmp8uCZk2ZAwdQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-melting-pot-columbus-3?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 264,
+        "categories": [
+          {
+            "alias": "fondue",
+            "title": "Fondue"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.0491,
+          "longitude": -82.91463
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "4014 Townsfair Way",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43219",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "4014 Townsfair Way",
+            "Columbus, OH 43219"
+          ]
+        },
+        "phone": "+16144765500",
+        "display_phone": "(614) 476-5500",
+        "distance": 8267.147446757248
+      },
+      {
+        "id": "JosIKKJlBkYxSyzEQXbJnQ",
+        "alias": "mr-hummus-grill-columbus-2",
+        "name": "Mr. Hummus Grill",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HQkQTRCnvgiMfwNTR6QU1A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mr-hummus-grill-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 122,
+        "categories": [
+          {
+            "alias": "lebanese",
+            "title": "Lebanese"
+          },
+          {
+            "alias": "mediterranean",
+            "title": "Mediterranean"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 40.06432176608236,
+          "longitude": -83.05809871480852
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$$",
+        "location": {
+          "address1": "1450 Bethel Rd",
+          "address2": "",
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43220",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1450 Bethel Rd",
+            "Columbus, OH 43220"
+          ]
+        },
+        "phone": "+16142734444",
+        "display_phone": "(614) 273-4444",
+        "distance": 7719.918886258535
+      },
+      {
+        "id": "Ji2rC8VHvKk_IcoRv6LrhQ",
+        "alias": "texas-de-brazil-columbus",
+        "name": "Texas de Brazil - Columbus",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p7mfziFjPNeqmIgzSDWOcQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/texas-de-brazil-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 402,
+        "categories": [
+          {
+            "alias": "brazilian",
+            "title": "Brazilian"
+          },
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          },
+          {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 40.05000344796519,
+          "longitude": -82.91343711112776
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "4040 Easton Sta Suite E 105",
+          "address2": "Ste E 105",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43219",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "4040 Easton Sta Suite E 105",
+            "Ste E 105",
+            "Columbus, OH 43219"
+          ]
+        },
+        "phone": "+16144724072",
+        "display_phone": "(614) 472-4072",
+        "distance": 8403.094843881308
+      },
+      {
+        "id": "KmGiWWaMFsVz5CFNQJOeRQ",
+        "alias": "mccormick-and-schmicks-seafood-and-steaks-columbus-3",
+        "name": "McCormick & Schmick's Seafood & Steaks",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SrijbhgAbCj5krT24vnc9w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mccormick-and-schmicks-seafood-and-steaks-columbus-3?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 274,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+          "latitude": 40.0529683924661,
+          "longitude": -82.9162205010925
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "3965 New Bond St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43219",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "3965 New Bond St",
+            "Columbus, OH 43219"
+          ]
+        },
+        "phone": "+16144763663",
+        "display_phone": "(614) 476-3663",
+        "distance": 8374.373703570544
+      },
+      {
+        "id": "32kF6jh42gnXFHaWrBh8FQ",
+        "alias": "aubergine-private-dining-club-columbus",
+        "name": "Aubergine Private Dining Club",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VZlk2yAq9h-rwfFXIm0PYg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/aubergine-private-dining-club-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "venues",
+            "title": "Venues & Event Spaces"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.9835038,
+          "longitude": -83.0450176
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1265 Grandview Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43212",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1265 Grandview Ave",
+            "Columbus, OH 43212"
+          ]
+        },
+        "phone": "+16145802265",
+        "display_phone": "(614) 580-2265",
+        "distance": 5055.237671447397
+      },
+      {
+        "id": "CzVVb1PRNRlYk7PDvw8xSg",
+        "alias": "ohio-state-faculty-club-columbus",
+        "name": "Ohio State Faculty Club",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u1GEJi3DejhQ2WijeI7sIQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ohio-state-faculty-club-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 2,
+        "categories": [
+          {
+            "alias": "cafeteria",
+            "title": "Cafeteria"
+          },
+          {
+            "alias": "tradamerican",
+            "title": "American (Traditional)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.99824,
+          "longitude": -83.01272
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": "181 S Oval Dr",
+          "address2": "",
+          "address3": "Ohio State University",
+          "city": "Columbus",
+          "zip_code": "43210",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "181 S Oval Dr",
+            "Ohio State University",
+            "Columbus, OH 43210"
+          ]
+        },
+        "phone": "+16142922262",
+        "display_phone": "(614) 292-2262",
+        "distance": 1926.7414052844738
+      },
+      {
+        "id": "BUax25BhX2tqser9O_dm5Q",
+        "alias": "the-dinner-detective-columbus-4",
+        "name": "The Dinner Detective",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IAp-pgCr9NFCMAaDbc6trg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-dinner-detective-columbus-4?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 9,
+        "categories": [
+          {
+            "alias": "dinnertheater",
+            "title": "Dinner Theater"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.970629,
+          "longitude": -83.00251
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": "401 N High St",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43215",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "401 N High St",
+            "Columbus, OH 43215"
+          ]
+        },
+        "phone": "+18664960535",
+        "display_phone": "(866) 496-0535",
+        "distance": 4599.580943572848
+      },
+      {
+        "id": "ND5J8JZ-gRgwRZ9f-1orJw",
+        "alias": "sweet-kellys-cupcakes-westerville",
+        "name": "Sweet Kelly's Cupcakes",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eNJ79JcFJFWOos6mKUd_SQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sweet-kellys-cupcakes-westerville?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 16,
+        "categories": [
+          {
+            "alias": "cupcakes",
+            "title": "Cupcakes"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 40.107093811035156,
+          "longitude": -82.9142074584961
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": null,
+          "address2": null,
+          "address3": "",
+          "city": "Westerville",
+          "zip_code": "43081",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "Westerville, OH 43081"
+          ]
+        },
+        "phone": "+16142562405",
+        "display_phone": "(614) 256-2405",
+        "distance": 13224.228733838101
+      },
+      {
+        "id": "fqvny-hUy16ShDpHltFJqA",
+        "alias": "final-cut-steak-and-seafood-columbus-4",
+        "name": "The Lounge at Final Cut",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jAaPx64IgddHshERm853gw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/final-cut-steak-and-seafood-columbus-4?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 99,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "steak",
+            "title": "Steakhouses"
+          }
+        ],
+        "rating": 3,
+        "coordinates": {
+          "latitude": 39.9487423561315,
+          "longitude": -83.1078011101999
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "200 Georgesville Rd",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43228",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "200 Georgesville Rd",
+            "Columbus, OH 43228"
+          ]
+        },
+        "phone": "+16143084540",
+        "display_phone": "(614) 308-4540",
+        "distance": 11652.4384866089
+      },
+      {
+        "id": "ksHQz0-1DjUxoo8uvlwlzw",
+        "alias": "bistro-2886-in-embassy-suites-columbus-2",
+        "name": "Bistro 2886 In Embassy Suites",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bistro-2886-in-embassy-suites-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 4,
+        "categories": [
+          {
+            "alias": "newamerican",
+            "title": "American (New)"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 39.9999313,
+          "longitude": -82.9344788
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": "2886 Airport Dr",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43219",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "2886 Airport Dr",
+            "Columbus, OH 43219"
+          ]
+        },
+        "phone": "+16145360500",
+        "display_phone": "(614) 536-0500",
+        "distance": 5629.063146910842
+      },
+      {
+        "id": "Stxz6yBGt8Nu5GbYob-i7g",
+        "alias": "chuck-e-cheese-columbus-2",
+        "name": "Chuck E. Cheese",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IuHml6ZPHHkidkCMcrpXzQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chuck-e-cheese-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 17,
+        "categories": [
+          {
+            "alias": "pizza",
+            "title": "Pizza"
+          },
+          {
+            "alias": "kids_activities",
+            "title": "Kids Activities"
+          },
+          {
+            "alias": "arcades",
+            "title": "Arcades"
+          }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+          "latitude": 39.95484,
+          "longitude": -83.097929
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$$",
+        "location": {
+          "address1": "3631 Soldano Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43228",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "3631 Soldano Blvd",
+            "Columbus, OH 43228"
+          ]
+        },
+        "phone": "+16143518921",
+        "display_phone": "(614) 351-8921",
+        "distance": 10572.340088320647
+      },
+      {
+        "id": "yKZyFCXkrQY-G5JpTO4QMA",
+        "alias": "cheryls-columbus-2",
+        "name": "Cheryl's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xFr-x1PGOS5gJbrRcYZuSQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cheryls-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 118,
+        "categories": [
+          {
+            "alias": "bakeries",
+            "title": "Bakeries"
+          }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+          "latitude": 40.0498559,
+          "longitude": -82.9154883
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "240 Easton Town Ctr",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43219",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "240 Easton Town Ctr",
+            "Columbus, OH 43219"
+          ]
+        },
+        "phone": "+16144166610",
+        "display_phone": "(614) 416-6610",
+        "distance": 8244.355943930605
+      },
+      {
+        "id": "OqkcxoJk5jkfZnqqzGSugQ",
+        "alias": "ribman-catering-columbus",
+        "name": "Ribman Catering",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xv-7anVPcoXEJDR-gtFL_Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ribman-catering-columbus?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "foodtrucks",
+            "title": "Food Trucks"
+          },
+          {
+            "alias": "bbq",
+            "title": "Barbeque"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 39.9467791,
+          "longitude": -82.944824
+        },
+        "transactions": [
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1030 Alum Creek Dr",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43209",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1030 Alum Creek Dr",
+            "Columbus, OH 43209"
+          ]
+        },
+        "phone": "+16143420160",
+        "display_phone": "(614) 342-0160",
+        "distance": 8570.748838637677
+      },
+      {
+        "id": "TZJXtbn7Ehjbt-iHizr_3w",
+        "alias": "donatos-pizza-columbus-63",
+        "name": "Donatos Pizza",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/boPTR9I8ddK69dwoww4PGQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/donatos-pizza-columbus-63?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 23,
+        "categories": [
+          {
+            "alias": "pizza",
+            "title": "Pizza"
+          }
+        ],
+        "rating": 1.5,
+        "coordinates": {
+          "latitude": 40.07745,
+          "longitude": -82.96697
+        },
+        "transactions": [
+          "pickup",
+          "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+          "address1": "1891 Tamarack Cir N",
+          "address2": null,
+          "address3": null,
+          "city": "Columbus",
+          "zip_code": "43229",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1891 Tamarack Cir N",
+            "Columbus, OH 43229"
+          ]
+        },
+        "phone": "+16148468411",
+        "display_phone": "(614) 846-8411",
+        "distance": 7767.072403634209
+      },
+      {
+        "id": "3QHaMn_Gb95W44bKeL7RfA",
+        "alias": "pjs-drive-thru-columbus-2",
+        "name": "PJ's Drive-Thru",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7YylhgNqwPWN7psRDhfSjQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pjs-drive-thru-columbus-2?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+        "review_count": 9,
+        "categories": [
+          {
+            "alias": "drivethrubars",
+            "title": "Drive-Thru Bars"
+          }
+        ],
+        "rating": 2,
+        "coordinates": {
+          "latitude": 40.11688,
+          "longitude": -83.0683
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+          "address1": "1973 Hard Rd",
+          "address2": "",
+          "address3": "",
+          "city": "Columbus",
+          "zip_code": "43235",
+          "country": "US",
+          "state": "OH",
+          "display_address": [
+            "1973 Hard Rd",
+            "Columbus, OH 43235"
+          ]
+        },
+        "phone": "+16147642900",
+        "display_phone": "(614) 764-2900",
+        "distance": 13087.199410799409
+      }
+    ],
+    "total": 49,
+    "region": {
+      "center": {
+        "longitude": -82.99896240234375,
+        "latitude": 40.011656617607905
+      }
+    }
+  }

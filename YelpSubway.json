@@ -1,899 +1,2228 @@
 {
-    "businesses": [
-      {
-        "id": "egQ3z-RcX-hRs4pguF5kTQ",
-        "alias": "subway-columbus-160",
-        "name": "Subway",
-        "image_url": "",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-160?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 2,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 1.5,
-        "coordinates": {
-          "latitude": 39.96938,
-          "longitude": -82.99068
+  "businesses": [
+    {
+      "id": "86k8vckqLPskNPhSRRhlxA",
+      "alias": "subway-columbus-249",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vt0PwVIeFr4ztZCqxKNjYw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-249?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [],
-        "price": "$",
-        "location": {
-          "address1": "283 Cleveland Ave",
-          "address2": "",
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43215",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "283 Cleveland Ave",
-            "Columbus, OH 43215"
-          ]
-        },
-        "phone": "+16142873953",
-        "display_phone": "(614) 287-3953",
-        "distance": 1460.9748103602722
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 1.5,
+      "coordinates": {
+        "latitude": 40.0011081319814,
+        "longitude": -83.0005593763083
       },
-      {
-        "id": "wrBnBMXuTGqwhF-HV4dDmg",
-        "alias": "subway-columbus-209",
-        "name": "Subway",
-        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0o83jVuZIj5JsVuSmgdXvw/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-209?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 1,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 2,
-        "coordinates": {
-          "latitude": 39.9940133,
-          "longitude": -82.981103788475
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "1418 Cleveland Ave",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43211",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "1418 Cleveland Ave",
-            "Columbus, OH 43211"
-          ]
-        },
-        "phone": "+16142918889",
-        "display_phone": "(614) 291-8889",
-        "distance": 1500.9167009429186
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1866 Summit St",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43201",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1866 Summit St",
+          "Columbus, OH 43201"
+        ]
       },
-      {
-        "id": "3TF9P_-T7zUt6hXEdXZpYw",
-        "alias": "subway-columbus-258",
-        "name": "Subway",
-        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wf8v5Mru3BND-eLo7i6ziw/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-258?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 4,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 2,
-        "coordinates": {
-          "latitude": 39.9701604,
-          "longitude": -83.000291
+      "phone": "+16142990157",
+      "display_phone": "(614) 299-0157",
+      "distance": 1180.7969926954065
+    },
+    {
+      "id": "ZpxUdKDQSyYLH6YhLKCExg",
+      "alias": "subway-columbus-205",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YrTjkUCvvcfzCE8Rwp3uow/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-205?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "400 N High St Space M-3",
-          "address2": "Space M-3",
-          "address3": "",
-          "city": "Columbus",
-          "zip_code": "43215",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "400 N High St Space M-3",
-            "Space M-3",
-            "Columbus, OH 43215"
-          ]
-        },
-        "phone": "+16142240800",
-        "display_phone": "(614) 224-0800",
-        "distance": 1615.6619439552614
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 40.0066463350555,
+        "longitude": -83.0146806412536
       },
-      {
-        "id": "igDNRfQObQjWRrXkVvYzFQ",
-        "alias": "subway-columbus-224",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2IaP1QWA9EhBG_PhF3BM8g/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-224?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 2,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          }
-        ],
-        "rating": 2.5,
-        "coordinates": {
-          "latitude": 39.9730690324379,
-          "longitude": -82.9738245
-        },
-        "transactions": [
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "323 N 20th St",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43203",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "323 N 20th St",
-            "Columbus, OH 43203"
-          ]
-        },
-        "phone": "+16142588888",
-        "display_phone": "(614) 258-8888",
-        "distance": 1794.755044010818
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2187 Neil Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43201",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2187 Neil Ave",
+          "Columbus, OH 43201"
+        ]
       },
-      {
-        "id": "QswzobSmN2rpx9Mv_Uh_aw",
-        "alias": "subway-columbus-217",
-        "name": "Subway",
-        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fEe-u1_IFIq05VVJoz3b0w/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-217?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 8,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 3.5,
-        "coordinates": {
-          "latitude": 39.9841351073427,
-          "longitude": -83.0146290537778
+      "phone": "+16142943799",
+      "display_phone": "(614) 294-3799",
+      "distance": 1450.0015843716133
+    },
+    {
+      "id": "XrMCJo-r9rutrP138ZgE_A",
+      "alias": "subway-columbus-261",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K8aqEo-bmZydRBetJ3fSGg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-261?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "350 W 3rd Ave",
-          "address2": "",
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43201",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "350 W 3rd Ave",
-            "Columbus, OH 43201"
-          ]
-        },
-        "phone": "+16142947172",
-        "display_phone": "(614) 294-7172",
-        "distance": 2043.0461583821962
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.99804309543051,
+        "longitude": -83.00737411808183
       },
-      {
-        "id": "B3peGFbWJh6E_JL7-mChRQ",
-        "alias": "subway-columbus-250",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4HKlSIJjsm-vMROaoXboGw/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-250?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 7,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 2.5,
-        "coordinates": {
-          "latitude": 39.965728441792386,
-          "longitude": -83.0015003
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "163 N High St",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43215",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "163 N High St",
-            "Columbus, OH 43215"
-          ]
-        },
-        "phone": "+16142287829",
-        "display_phone": "(614) 228-7829",
-        "distance": 2099.220331385034
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "6 E 13th Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43201",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "6 E 13th Ave",
+          "Columbus, OH 43201"
+        ]
       },
-      {
-        "id": "86k8vckqLPskNPhSRRhlxA",
-        "alias": "subway-columbus-249",
-        "name": "Subway",
-        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vt0PwVIeFr4ztZCqxKNjYw/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-249?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 2,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 1.5,
-        "coordinates": {
-          "latitude": 40.0011081319814,
-          "longitude": -83.0005593763083
+      "phone": "+16144217827",
+      "display_phone": "(614) 421-7827",
+      "distance": 1674.7427907081747
+    },
+    {
+      "id": "wx0ThGVRlRKG49XCFHrotA",
+      "alias": "subway-columbus-247",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LbBoUdOkcjQS1GfbT9fA2w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-247?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 10,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "1866 Summit St",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43201",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "1866 Summit St",
-            "Columbus, OH 43201"
-          ]
-        },
-        "phone": "+16142990157",
-        "display_phone": "(614) 299-0157",
-        "distance": 2211.3031717863714
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 40.0272155827796,
+        "longitude": -83.0142889762811
       },
-      {
-        "id": "XrMCJo-r9rutrP138ZgE_A",
-        "alias": "subway-columbus-261",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K8aqEo-bmZydRBetJ3fSGg/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-261?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 8,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 2,
-        "coordinates": {
-          "latitude": 39.99804309543051,
-          "longitude": -83.00737411808183
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "6 E 13th Ave",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43201",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "6 E 13th Ave",
-            "Columbus, OH 43201"
-          ]
-        },
-        "phone": "+16144217827",
-        "display_phone": "(614) 421-7827",
-        "distance": 2218.392738255429
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3200 N High St",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43202",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "3200 N High St",
+          "Columbus, OH 43202"
+        ]
       },
-      {
-        "id": "bq3dDtFKjwwDDMG31LbwMA",
-        "alias": "subway-columbus-237",
-        "name": "Subway",
-        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BWHnIONF40Tov8e3FNvaVA/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-237?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 7,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 3.5,
-        "coordinates": {
-          "latitude": 39.9636164368981,
-          "longitude": -82.999059166532
+      "phone": "+16142677827",
+      "display_phone": "(614) 267-7827",
+      "distance": 2167.1583724092443
+    },
+    {
+      "id": "9FihGPlNkqX7pIClsV279g",
+      "alias": "subway-columbus-248",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0oeVM7y2PNxWN4Z8x0hGkg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-248?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "61 E Gay St",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43215",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "61 E Gay St",
-            "Columbus, OH 43215"
-          ]
-        },
-        "phone": "+16142214040",
-        "display_phone": "(614) 221-4040",
-        "distance": 2238.2363275403395
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 40.03149,
+        "longitude": -82.99594
       },
-      {
-        "id": "0ef1LiG5xceahykjt3kH4Q",
-        "alias": "subway-columbus-173",
-        "name": "Subway",
-        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VMqytOSE7Hk5YRooyXoWkA/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-173?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 6,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          }
-        ],
-        "rating": 2,
-        "coordinates": {
-          "latitude": 39.9620521,
-          "longitude": -82.99108570801639
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "53 S Grant St",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43215",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "53 S Grant St",
-            "Columbus, OH 43215"
-          ]
-        },
-        "phone": "+16146212867",
-        "display_phone": "(614) 621-2867",
-        "distance": 2296.6662285339166
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "700 E North Broadway",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43224",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "700 E North Broadway",
+          "Columbus, OH 43224"
+        ]
       },
-      {
-        "id": "SXIYya9dzGZx5qVDgUA0fA",
-        "alias": "subway-columbus-207",
-        "name": "Subway",
-        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pfi21yXsBPOhIoxLoLKvLA/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-207?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 2,
-        "categories": [
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          },
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          }
-        ],
-        "rating": 1,
-        "coordinates": {
-          "latitude": 39.9619632374781,
-          "longitude": -83.001382924437
+      "phone": "+16142610902",
+      "display_phone": "(614) 261-0902",
+      "distance": 2218.429071957528
+    },
+    {
+      "id": "wrBnBMXuTGqwhF-HV4dDmg",
+      "alias": "subway-columbus-209",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0o83jVuZIj5JsVuSmgdXvw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-209?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "21 W Broad St",
-          "address2": "Ste 150",
-          "address3": "Wyandotte Building",
-          "city": "Columbus",
-          "zip_code": "43215",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "21 W Broad St",
-            "Ste 150",
-            "Wyandotte Building",
-            "Columbus, OH 43215"
-          ]
-        },
-        "phone": "+16144617829",
-        "display_phone": "(614) 461-7829",
-        "distance": 2478.7920322049613
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9940133,
+        "longitude": -82.981103788475
       },
-      {
-        "id": "fRyAQWLH-9qIII7Hnpxu7A",
-        "alias": "subway-columbus-214",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GpkHEwzf6uNVlZI1OTv0qQ/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-214?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 4,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 2,
-        "coordinates": {
-          "latitude": 39.9589586083848,
-          "longitude": -82.9970838387335
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "101 E Town St",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43215",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "101 E Town St",
-            "Columbus, OH 43215"
-          ]
-        },
-        "phone": "+16147158718",
-        "display_phone": "(614) 715-8718",
-        "distance": 2695.507655831324
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1418 Cleveland Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43211",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1418 Cleveland Ave",
+          "Columbus, OH 43211"
+        ]
       },
-      {
-        "id": "ZpxUdKDQSyYLH6YhLKCExg",
-        "alias": "subway-columbus-205",
-        "name": "Subway",
-        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YrTjkUCvvcfzCE8Rwp3uow/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-205?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 4,
-        "categories": [
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          },
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          }
-        ],
-        "rating": 3,
-        "coordinates": {
-          "latitude": 40.0066463350555,
-          "longitude": -83.0146806412536
+      "phone": "+16142918889",
+      "display_phone": "(614) 291-8889",
+      "distance": 2482.4771383461352
+    },
+    {
+      "id": "QswzobSmN2rpx9Mv_Uh_aw",
+      "alias": "subway-columbus-217",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fEe-u1_IFIq05VVJoz3b0w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-217?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 8,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "2187 Neil Ave",
-          "address2": "",
-          "address3": "",
-          "city": "Columbus",
-          "zip_code": "43201",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "2187 Neil Ave",
-            "Columbus, OH 43201"
-          ]
-        },
-        "phone": "+16142943799",
-        "display_phone": "(614) 294-3799",
-        "distance": 3354.480831952328
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 39.9841351073427,
+        "longitude": -83.0146290537778
       },
-      {
-        "id": "zYXjqLk-S32iMsXrYPII0Q",
-        "alias": "subway-columbus-197",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bioXJ4by4ZUKQxoPQtvaRA/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-197?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 6,
-        "categories": [
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          },
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          }
-        ],
-        "rating": 3,
-        "coordinates": {
-          "latitude": 39.9575035296954,
-          "longitude": -83.0419837721939
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "1556 W Broad St",
-          "address2": "",
-          "address3": "",
-          "city": "Columbus",
-          "zip_code": "43222",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "1556 W Broad St",
-            "Columbus, OH 43222"
-          ]
-        },
-        "phone": "+16142728339",
-        "display_phone": "(614) 272-8339",
-        "distance": 5189.886916351902
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "350 W 3rd Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43201",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "350 W 3rd Ave",
+          "Columbus, OH 43201"
+        ]
       },
-      {
-        "id": "wx0ThGVRlRKG49XCFHrotA",
-        "alias": "subway-columbus-247",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LbBoUdOkcjQS1GfbT9fA2w/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-247?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 10,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 3,
-        "coordinates": {
-          "latitude": 40.0272155827796,
-          "longitude": -83.0142889762811
+      "phone": "+16142947172",
+      "display_phone": "(614) 294-7172",
+      "distance": 3338.576199766467
+    },
+    {
+      "id": "7F6HnyCcXvYVQJ7X4ZMBaw",
+      "alias": "subway-columbus-254",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KXbQRKEwG-htkKosbGL0qA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-254?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 10,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "3200 N High St",
-          "address2": "",
-          "address3": "",
-          "city": "Columbus",
-          "zip_code": "43202",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "3200 N High St",
-            "Columbus, OH 43202"
-          ]
-        },
-        "phone": "+16142677827",
-        "display_phone": "(614) 267-7827",
-        "distance": 5340.916616404695
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 40.0072911242926,
+        "longitude": -83.0462276243597
       },
-      {
-        "id": "ou3nkIcM5Blp61cCecDf2A",
-        "alias": "subway-columbus-212",
-        "name": "Subway",
-        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iiaG_XWTDYRBZbXfvmiPYg/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-212?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 9,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 3.5,
-        "coordinates": {
-          "latitude": 39.99927247252807,
-          "longitude": -82.9305704
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "1425 N Cassady Ave",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43219",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "1425 N Cassady Ave",
-            "Columbus, OH 43219"
-          ]
-        },
-        "phone": "+16144769621",
-        "display_phone": "(614) 476-9621",
-        "distance": 5445.5429528994255
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1320 W Lane Avene",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43221",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1320 W Lane Avene",
+          "Columbus, OH 43221"
+        ]
       },
-      {
-        "id": "9FihGPlNkqX7pIClsV279g",
-        "alias": "subway-columbus-248",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0oeVM7y2PNxWN4Z8x0hGkg/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-248?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 6,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 3,
-        "coordinates": {
-          "latitude": 40.03149,
-          "longitude": -82.99594
+      "phone": "+16144887178",
+      "display_phone": "(614) 488-7178",
+      "distance": 4054.662407659607
+    },
+    {
+      "id": "3TF9P_-T7zUt6hXEdXZpYw",
+      "alias": "subway-columbus-258",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wf8v5Mru3BND-eLo7i6ziw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-258?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [],
-        "price": "$",
-        "location": {
-          "address1": "700 E North Broadway",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43224",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "700 E North Broadway",
-            "Columbus, OH 43224"
-          ]
-        },
-        "phone": "+16142610902",
-        "display_phone": "(614) 261-0902",
-        "distance": 5442.912384586098
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9701604,
+        "longitude": -83.000291
       },
-      {
-        "id": "7F6HnyCcXvYVQJ7X4ZMBaw",
-        "alias": "subway-columbus-254",
-        "name": "Subway",
-        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KXbQRKEwG-htkKosbGL0qA/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-254?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 10,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 3.5,
-        "coordinates": {
-          "latitude": 40.0072911242926,
-          "longitude": -83.0462276243597
-        },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "1320 W Lane Avene",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43221",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "1320 W Lane Avene",
-            "Columbus, OH 43221"
-          ]
-        },
-        "phone": "+16144887178",
-        "display_phone": "(614) 488-7178",
-        "distance": 5461.744829052436
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "400 N High St Space M-3",
+        "address2": "Space M-3",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43215",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "400 N High St Space M-3",
+          "Space M-3",
+          "Columbus, OH 43215"
+        ]
       },
-      {
-        "id": "QbcS4WgpKcjdnwX2f4jnew",
-        "alias": "subway-columbus-180",
-        "name": "Subway",
-        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KvlV2j0Yg43b3xAApijVYQ/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-180?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 5,
-        "categories": [
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          },
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          }
-        ],
-        "rating": 2,
-        "coordinates": {
-          "latitude": 39.9477939305525,
-          "longitude": -82.9387112535651
+      "phone": "+16142240800",
+      "display_phone": "(614) 224-0800",
+      "distance": 4615.551760695003
+    },
+    {
+      "id": "egQ3z-RcX-hRs4pguF5kTQ",
+      "alias": "subway-columbus-160",
+      "name": "Subway",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-160?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "2181 E Livingston Ave",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43209",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "2181 E Livingston Ave",
-            "Columbus, OH 43209"
-          ]
-        },
-        "phone": "+16148841569",
-        "display_phone": "(614) 884-1569",
-        "distance": 5892.110850141473
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 1.5,
+      "coordinates": {
+        "latitude": 39.96938,
+        "longitude": -82.99068
       },
-      {
-        "id": "66kk7nIjwVtxKN1KtV163A",
-        "alias": "subway-columbus-168",
-        "name": "Subway",
-        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vp8cEfkfStT_VadKkhUV5A/o.jpg",
-        "is_closed": false,
-        "url": "https://www.yelp.com/biz/subway-columbus-168?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
-        "review_count": 5,
-        "categories": [
-          {
-            "alias": "hotdogs",
-            "title": "Fast Food"
-          },
-          {
-            "alias": "sandwiches",
-            "title": "Sandwiches"
-          }
-        ],
-        "rating": 2,
-        "coordinates": {
-          "latitude": 39.9274355390009,
-          "longitude": -82.9654249
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "283 Cleveland Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43215",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "283 Cleveland Ave",
+          "Columbus, OH 43215"
+        ]
+      },
+      "phone": "+16142873953",
+      "display_phone": "(614) 287-3953",
+      "distance": 4731.382014918015
+    },
+    {
+      "id": "igDNRfQObQjWRrXkVvYzFQ",
+      "alias": "subway-columbus-224",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2IaP1QWA9EhBG_PhF3BM8g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-224?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 39.9730690324379,
+        "longitude": -82.9738245
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "323 N 20th St",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43203",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "323 N 20th St",
+          "Columbus, OH 43203"
+        ]
+      },
+      "phone": "+16142588888",
+      "display_phone": "(614) 258-8888",
+      "distance": 4795.458239951187
+    },
+    {
+      "id": "B3peGFbWJh6E_JL7-mChRQ",
+      "alias": "subway-columbus-250",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4HKlSIJjsm-vMROaoXboGw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-250?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "transactions": [
-          "pickup",
-          "delivery"
-        ],
-        "price": "$",
-        "location": {
-          "address1": "1855 Lockbourne Rd",
-          "address2": null,
-          "address3": null,
-          "city": "Columbus",
-          "zip_code": "43207",
-          "country": "US",
-          "state": "OH",
-          "display_address": [
-            "1855 Lockbourne Rd",
-            "Columbus, OH 43207"
-          ]
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 39.965728441792386,
+        "longitude": -83.0015003
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "163 N High St",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43215",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "163 N High St",
+          "Columbus, OH 43215"
+        ]
+      },
+      "phone": "+16142287829",
+      "display_phone": "(614) 228-7829",
+      "distance": 5111.549367007403
+    },
+    {
+      "id": "bq3dDtFKjwwDDMG31LbwMA",
+      "alias": "subway-columbus-237",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BWHnIONF40Tov8e3FNvaVA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-237?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
         },
-        "phone": "+16144436590",
-        "display_phone": "(614) 443-6590",
-        "distance": 6512.9444753106645
-      }
-    ],
-    "total": 2000,
-    "region": {
-      "center": {
-        "longitude": -82.99072265625,
-        "latitude": 39.98270466450419
-      }
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 39.9636164368981,
+        "longitude": -82.999059166532
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "61 E Gay St",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43215",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "61 E Gay St",
+          "Columbus, OH 43215"
+        ]
+      },
+      "phone": "+16142214040",
+      "display_phone": "(614) 221-4040",
+      "distance": 5341.82480667124
+    },
+    {
+      "id": "lP7tx5sKLQi8lxv4ixa_bQ",
+      "alias": "subway-columbus-179",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l8zCKIZyXDnvvnXvTrEtCw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-179?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 40.0598,
+        "longitude": -82.98614
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1251 Morse Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43229",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1251 Morse Rd",
+          "Columbus, OH 43229"
+        ]
+      },
+      "phone": "+16142617820",
+      "display_phone": "(614) 261-7820",
+      "distance": 5451.360996450978
+    },
+    {
+      "id": "SXIYya9dzGZx5qVDgUA0fA",
+      "alias": "subway-columbus-207",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pfi21yXsBPOhIoxLoLKvLA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-207?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 1,
+      "coordinates": {
+        "latitude": 39.9619632374781,
+        "longitude": -83.001382924437
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "21 W Broad St",
+        "address2": "Ste 150",
+        "address3": "Wyandotte Building",
+        "city": "Columbus",
+        "zip_code": "43215",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "21 W Broad St",
+          "Ste 150",
+          "Wyandotte Building",
+          "Columbus, OH 43215"
+        ]
+      },
+      "phone": "+16144617829",
+      "display_phone": "(614) 461-7829",
+      "distance": 5529.492420011234
+    },
+    {
+      "id": "0ef1LiG5xceahykjt3kH4Q",
+      "alias": "subway-columbus-173",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VMqytOSE7Hk5YRooyXoWkA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-173?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9620521,
+        "longitude": -82.99108570801639
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "53 S Grant St",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43215",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "53 S Grant St",
+          "Columbus, OH 43215"
+        ]
+      },
+      "phone": "+16146212867",
+      "display_phone": "(614) 621-2867",
+      "distance": 5556.436812266797
+    },
+    {
+      "id": "fRyAQWLH-9qIII7Hnpxu7A",
+      "alias": "subway-columbus-214",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GpkHEwzf6uNVlZI1OTv0qQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-214?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9589586083848,
+        "longitude": -82.9970838387335
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "101 E Town St",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43215",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "101 E Town St",
+          "Columbus, OH 43215"
+        ]
+      },
+      "phone": "+16147158718",
+      "display_phone": "(614) 715-8718",
+      "distance": 5861.9301449881195
+    },
+    {
+      "id": "ou3nkIcM5Blp61cCecDf2A",
+      "alias": "subway-columbus-212",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iiaG_XWTDYRBZbXfvmiPYg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-212?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 39.99927247252807,
+        "longitude": -82.9305704
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1425 N Cassady Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43219",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1425 N Cassady Ave",
+          "Columbus, OH 43219"
+        ]
+      },
+      "phone": "+16144769621",
+      "display_phone": "(614) 476-9621",
+      "distance": 5985.728175074649
+    },
+    {
+      "id": "7DU3s49hQ-afhBPJPo9e2Q",
+      "alias": "subway-columbus-255",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yXAuQHi-QARTw63Alzecjw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-255?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 40.0498926,
+        "longitude": -83.05173216759874
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1194 Kenny Centre Rd",
+        "address2": "Room 122",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43220",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1194 Kenny Centre Rd",
+          "Room 122",
+          "Columbus, OH 43220"
+        ]
+      },
+      "phone": "+16144592748",
+      "display_phone": "(614) 459-2748",
+      "distance": 6185.685665574946
+    },
+    {
+      "id": "bcdC_WGw4scfO929P2uWJg",
+      "alias": "subway-columbus-260",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AhXZOMmRplHgKC-jVs85vA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-260?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 10,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 40.0649731159284,
+        "longitude": -83.0203403404928
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "5055 N High St",
+        "address2": "Ste 1-06",
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43214",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "5055 N High St",
+          "Ste 1-06",
+          "Columbus, OH 43214"
+        ]
+      },
+      "phone": "+16148467827",
+      "display_phone": "(614) 846-7827",
+      "distance": 6201.576585140365
+    },
+    {
+      "id": "2PHVR7xG74hToNozwJe9HA",
+      "alias": "subway-columbus-253",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i799XIEPYpEXwjCrEsbLZA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-253?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 40.0639409,
+        "longitude": -83.04021143691898
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "794 Bethel Rd",
+        "address2": "Storeroom  01110",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43214",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "794 Bethel Rd",
+          "Storeroom  01110",
+          "Columbus, OH 43214"
+        ]
+      },
+      "phone": "+16144597886",
+      "display_phone": "(614) 459-7886",
+      "distance": 6792.001693174372
+    },
+    {
+      "id": "NpUCIEj6uKexrylTjuL6MQ",
+      "alias": "subway-columbus-170",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1BdW_x5ANTM-QYbXRmmGjw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-170?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 40.0587536145679,
+        "longitude": -82.9443021793593
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2811 Morse Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43231",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2811 Morse Rd",
+          "Columbus, OH 43231"
+        ]
+      },
+      "phone": "+16144147827",
+      "display_phone": "(614) 414-7827",
+      "distance": 7005.798948256004
+    },
+    {
+      "id": "zYXjqLk-S32iMsXrYPII0Q",
+      "alias": "subway-columbus-197",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bioXJ4by4ZUKQxoPQtvaRA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-197?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 39.9575035296954,
+        "longitude": -83.0419837721939
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1556 W Broad St",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43222",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1556 W Broad St",
+          "Columbus, OH 43222"
+        ]
+      },
+      "phone": "+16142728339",
+      "display_phone": "(614) 272-8339",
+      "distance": 7049.4029574345
+    },
+    {
+      "id": "c5ZmJS4ApM9gsc-l05heBA",
+      "alias": "subway-columbus-242",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TVogmsStoP6TgdJgZIZ7og/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-242?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.0262284283198,
+        "longitude": -83.0907626
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3566 Riverside Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43221",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "3566 Riverside Dr",
+          "Columbus, OH 43221"
+        ]
+      },
+      "phone": "+16144577828",
+      "display_phone": "(614) 457-7828",
+      "distance": 7983.5405644113835
+    },
+    {
+      "id": "M-4mM69YXGlP1GA2Z0insg",
+      "alias": "subway-columbus-226",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NXNngYVzLb_LgLMiuKIpTA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-226?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 40.0309926,
+        "longitude": -82.9084575980435
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "2832 Stelzer Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43219",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2832 Stelzer Rd",
+          "Columbus, OH 43219"
+        ]
+      },
+      "phone": "+16143379782",
+      "display_phone": "(614) 337-9782",
+      "distance": 8001.100452856692
+    },
+    {
+      "id": "CcA_qyQbDALXsUTRca94VA",
+      "alias": "subway-columbus-241",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rCHrLK4XXk2GB0nPO-s9rg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-241?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 8,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 40.0574505177844,
+        "longitude": -83.0742266226862
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "2090 W Henderson Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43220",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2090 W Henderson Rd",
+          "Columbus, OH 43220"
+        ]
+      },
+      "phone": "+16144574044",
+      "display_phone": "(614) 457-4044",
+      "distance": 8184.647532828538
+    },
+    {
+      "id": "mh7Ymz2nUEGmkDnYWGK_SQ",
+      "alias": "subway-columbus-184",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dcXRPJKPHYXi5AGYfVvkfQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-184?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 1,
+      "coordinates": {
+        "latitude": 40.087898,
+        "longitude": -82.974967
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "5892 Karl Rd",
+        "address2": "Outlot C",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43229",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "5892 Karl Rd",
+          "Outlot C",
+          "Columbus, OH 43229"
+        ]
+      },
+      "phone": "+16144237272",
+      "display_phone": "(614) 423-7272",
+      "distance": 8720.542265584601
+    },
+    {
+      "id": "tGzGziHY3eTLnVTTJ9VDcg",
+      "alias": "subway-columbus-210",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4dL3jmVjICA2ejxe0tfIQQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-210?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 40.0900816042332,
+        "longitude": -82.9912609
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "6092 Boardwalk St",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43229",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "6092 Boardwalk St",
+          "Columbus, OH 43229"
+        ]
+      },
+      "phone": "+16148887886",
+      "display_phone": "(614) 888-7886",
+      "distance": 8745.05457000253
+    },
+    {
+      "id": "QbcS4WgpKcjdnwX2f4jnew",
+      "alias": "subway-columbus-180",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KvlV2j0Yg43b3xAApijVYQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-180?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9477939305525,
+        "longitude": -82.9387112535651
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2181 E Livingston Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43209",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2181 E Livingston Ave",
+          "Columbus, OH 43209"
+        ]
+      },
+      "phone": "+16148841569",
+      "display_phone": "(614) 884-1569",
+      "distance": 8762.543042773217
+    },
+    {
+      "id": "3MP0vrtJwsJSSt3FDPG-Sg",
+      "alias": "subway-columbus-191",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W51MZfQFnVjo3SuwxZKUng/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-191?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 1.5,
+      "coordinates": {
+        "latitude": 39.9570729503756,
+        "longitude": -82.9207748434032
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2910 E Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43209",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2910 E Main St",
+          "Columbus, OH 43209"
+        ]
+      },
+      "phone": "+16142361782",
+      "display_phone": "(614) 236-1782",
+      "distance": 9011.889054691963
+    },
+    {
+      "id": "q4erwkJ3ZA0LUYE4BnZQ1g",
+      "alias": "subway-columbus-175",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zXExZ0a1AG0z1TH1LZz6fQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-175?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 10,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 40.08647,
+        "longitude": -82.9514506903027
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "5701 Cleveland Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43231",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "5701 Cleveland Ave",
+          "Columbus, OH 43231"
+        ]
+      },
+      "phone": "+16148997827",
+      "display_phone": "(614) 899-7827",
+      "distance": 9249.785338265234
+    },
+    {
+      "id": "9ZKzU_Vb1EGVET65-ANcEA",
+      "alias": "subway-whitehall-24",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ptMMK2WuVynDgP5HhX1-uw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-whitehall-24?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9744592610064,
+        "longitude": -82.8967472883651
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3912 E Broad St D22c",
+        "address2": "D22c",
+        "address3": "",
+        "city": "Whitehall",
+        "zip_code": "43213",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "3912 E Broad St D22c",
+          "D22c",
+          "Whitehall, OH 43213"
+        ]
+      },
+      "phone": "+16142377877",
+      "display_phone": "(614) 237-7877",
+      "distance": 9640.009314032743
+    },
+    {
+      "id": "e9UCDnDsz8BxX4Ma70MGhw",
+      "alias": "subway-columbus-233",
+      "name": "Subway",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hnXAMGdRv4DbWKVjEidVWQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-233?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 40.0024464,
+        "longitude": -83.1128401999748
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "4391 Old Roberts Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43228",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "4391 Old Roberts Rd",
+          "Columbus, OH 43228"
+        ]
+      },
+      "phone": "+16145290528",
+      "display_phone": "(614) 529-0528",
+      "distance": 9753.045517197072
+    },
+    {
+      "id": "66kk7nIjwVtxKN1KtV163A",
+      "alias": "subway-columbus-168",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vp8cEfkfStT_VadKkhUV5A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-168?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9274355390009,
+        "longitude": -82.9654249
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1855 Lockbourne Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43207",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1855 Lockbourne Rd",
+          "Columbus, OH 43207"
+        ]
+      },
+      "phone": "+16144436590",
+      "display_phone": "(614) 443-6590",
+      "distance": 9791.343027871046
+    },
+    {
+      "id": "_CQS36GjlHtpQR3IiOzJzA",
+      "alias": "subway-columbus-198",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WTtOebY9jdpx1bqo1WNFnQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-198?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 39.9441111342223,
+        "longitude": -83.0739669617233
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2800 Sullivant Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43204",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2800 Sullivant Ave",
+          "Columbus, OH 43204"
+        ]
+      },
+      "phone": "+16148241530",
+      "display_phone": "(614) 824-1530",
+      "distance": 9861.804456423059
+    },
+    {
+      "id": "skyhNeRdQAjqGd8VbFNoDw",
+      "alias": "subway-columbus-176",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kVpiNhI5Z9UBq2yaZuQQvA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-176?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 39.9582412,
+        "longitude": -83.0925467
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3493 Great Western Blvd Space",
+        "address2": "Space  118",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43204",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "3493 Great Western Blvd Space",
+          "Space  118",
+          "Columbus, OH 43204"
+        ]
+      },
+      "phone": "+16142797588",
+      "display_phone": "(614) 279-7588",
+      "distance": 9942.387667700346
+    },
+    {
+      "id": "p7g2FFr-B2HLBYlsDVmQOQ",
+      "alias": "subway-hilliard-6",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gKnwLjvEbowuvS47Cc95YQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-hilliard-6?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 40.0312957,
+        "longitude": -83.1164596115705
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3880 Park Mill Run Dr",
+        "address2": null,
+        "address3": null,
+        "city": "Hilliard",
+        "zip_code": "43026",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "3880 Park Mill Run Dr",
+          "Hilliard, OH 43026"
+        ]
+      },
+      "phone": "+16145291863",
+      "display_phone": "(614) 529-1863",
+      "distance": 10240.824603701722
+    },
+    {
+      "id": "0UQbpqG6etFSRDj4J5Lv7w",
+      "alias": "subway-gahanna-5",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GflNkDKzistDgxUb860i4A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-gahanna-5?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.0189780356161,
+        "longitude": -82.877479562123
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "110 Granville St",
+        "address2": "",
+        "address3": "",
+        "city": "Gahanna",
+        "zip_code": "43230",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "110 Granville St",
+          "Gahanna, OH 43230"
+        ]
+      },
+      "phone": "+16145320684",
+      "display_phone": "(614) 532-0684",
+      "distance": 10377.587226606534
+    },
+    {
+      "id": "m6CNLwIkzFHCO2q2npzxCw",
+      "alias": "subway-whitehall-13",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oz7cYWN1be-Ssk0ML5FeJQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-whitehall-13?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 39.9541515,
+        "longitude": -82.9007269
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3657 E Main St",
+        "address2": null,
+        "address3": null,
+        "city": "Whitehall",
+        "zip_code": "43213",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "3657 E Main St",
+          "Whitehall, OH 43213"
+        ]
+      },
+      "phone": "+16143388010",
+      "display_phone": "(614) 338-8010",
+      "distance": 10532.824681557033
+    },
+    {
+      "id": "EwEIj_eUcGaKz_Bp5Ez33g",
+      "alias": "subway-columbus-185",
+      "name": "Subway",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0yjnqRA9ZJh5Q2r2Fg9JYg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-185?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9160163160839,
+        "longitude": -83.0354023131334
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1093 Frank Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43223",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1093 Frank Rd",
+          "Columbus, OH 43223"
+        ]
+      },
+      "phone": "+16143515182",
+      "display_phone": "(614) 351-5182",
+      "distance": 11078.884834886181
+    },
+    {
+      "id": "t0mP8b1frDRFZHSW36HR9w",
+      "alias": "subway-westerville-9",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ga_iWmDHhNmh3CC0eAkeGA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-westerville-9?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.0943342173722,
+        "longitude": -82.9238323
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "5992 Westerville Rd",
+        "address2": "Ste G",
+        "address3": "",
+        "city": "Westerville",
+        "zip_code": "43081",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "5992 Westerville Rd",
+          "Ste G",
+          "Westerville, OH 43081"
+        ]
+      },
+      "phone": "+16147942782",
+      "display_phone": "(614) 794-2782",
+      "distance": 11198.585716604057
+    },
+    {
+      "id": "tSwc_p5RO07z7-gt0cNq-Q",
+      "alias": "subway-columbus-216",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PGhIN0mU-Km40EZjtp7Gzw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-216?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 40.1100916,
+        "longitude": -82.950208
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2455 Schrock Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Columbus",
+        "zip_code": "43229",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2455 Schrock Rd",
+          "Columbus, OH 43229"
+        ]
+      },
+      "phone": "+16148987827",
+      "display_phone": "(614) 898-7827",
+      "distance": 11705.508755695491
+    },
+    {
+      "id": "qcP8yIpg-9ZkeEeCh3RlvQ",
+      "alias": "subway-whitehall-18",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OMAYQQVM-n89Hu7ty_hW4w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-whitehall-18?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 39.9552779,
+        "longitude": -82.8819859
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "4343 E Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Whitehall",
+        "zip_code": "43213",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "4343 E Main St",
+          "Whitehall, OH 43213"
+        ]
+      },
+      "phone": "+16142318878",
+      "display_phone": "(614) 231-8878",
+      "distance": 11774.18742715344
+    },
+    {
+      "id": "mwr6wcD7oD30XJuHYCLsVQ",
+      "alias": "subway-worthington-8",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C1tTEPQUHJS66Y4NZUqMcQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-worthington-8?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 40.1177416419935,
+        "longitude": -82.9881034110451
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "7558 Worthington Galena",
+        "address2": "",
+        "address3": "",
+        "city": "Worthington",
+        "zip_code": "43085",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "7558 Worthington Galena",
+          "Worthington, OH 43085"
+        ]
+      },
+      "phone": "+16144311590",
+      "display_phone": "(614) 431-1590",
+      "distance": 11832.244257480299
+    },
+    {
+      "id": "7F4GeFOXXCORA_z_rp8VNA",
+      "alias": "subway-gahanna-4",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KXcpUbfHQOxdV74Yhs3XrQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-gahanna-4?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.0029257766691,
+        "longitude": -82.8600998754457
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "604 Morrison Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Gahanna",
+        "zip_code": "43230",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "604 Morrison Rd",
+          "Gahanna, OH 43230"
+        ]
+      },
+      "phone": "+16148562685",
+      "display_phone": "(614) 856-2685",
+      "distance": 11866.84619350352
+    },
+    {
+      "id": "lW9733PT74Q9ehkdYRrPfA",
+      "alias": "subway-columbus-239",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ICCW7oBuZCLL3JHUFLbScA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-239?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 40.1179347630306,
+        "longitude": -83.0151382377272
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "1 E Campus View Dr",
+        "address2": "Ste 116",
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43235",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "1 E Campus View Dr",
+          "Ste 116",
+          "Columbus, OH 43235"
+        ]
+      },
+      "phone": "+16148467821",
+      "display_phone": "(614) 846-7821",
+      "distance": 11897.480019612953
+    },
+    {
+      "id": "WKMY_ypEv726KRm8USYK9g",
+      "alias": "subway-hilliard-7",
+      "name": "Subway",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mItR58sTfqHEs40LFRgA7A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-hilliard-7?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 13,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 40.0325341220985,
+        "longitude": -83.1367592060933
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "4490 Cemetery Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Hilliard",
+        "zip_code": "43026",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "4490 Cemetery Rd",
+          "Hilliard, OH 43026"
+        ]
+      },
+      "phone": "+16148767993",
+      "display_phone": "(614) 876-7993",
+      "distance": 11961.195428121478
+    },
+    {
+      "id": "sNbDE5pdimzYToGCPbIm_A",
+      "alias": "subway-columbus-262",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PJQBru9G3KYcQb3uaNPLiw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-columbus-262?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 40.0939172745488,
+        "longitude": -83.0905771
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2787 Martin Rd Storeroom",
+        "address2": "Storeroom  121",
+        "address3": null,
+        "city": "Columbus",
+        "zip_code": "43017",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "2787 Martin Rd Storeroom",
+          "Storeroom  121",
+          "Columbus, OH 43017"
+        ]
+      },
+      "phone": "+16147932813",
+      "display_phone": "(614) 793-2813",
+      "distance": 12019.61770454773
+    },
+    {
+      "id": "xdwhYSl4TC5-BpjjZU-eEQ",
+      "alias": "subway-gahanna-3",
+      "name": "Subway",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R2vaRemcemcccLlqud4hQg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/subway-gahanna-3?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 40.051672220308,
+        "longitude": -82.867380913797
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "321 Stoneridge Ln Storeroom",
+        "address2": "Storeroom 02070",
+        "address3": null,
+        "city": "Gahanna",
+        "zip_code": "43230",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "321 Stoneridge Ln Storeroom",
+          "Storeroom 02070",
+          "Gahanna, OH 43230"
+        ]
+      },
+      "phone": "+16144717821",
+      "display_phone": "(614) 471-7821",
+      "distance": 12054.209398930654
+    },
+    {
+      "id": "hf4ubaLVUjgEMm8TlRZIKg",
+      "alias": "subway-westerville-westerville",
+      "name": "Subway - Westerville",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kJPYKqK7ERo-_Bi77txuNw/o.jpg",
+      "is_closed": true,
+      "url": "https://www.yelp.com/biz/subway-westerville-westerville?adjust_creative=LybLDQc8dmEyo1TR3FJhrA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LybLDQc8dmEyo1TR3FJhrA",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 40.113210146145896,
+        "longitude": -82.92731507668661
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "495 S State St",
+        "address2": "",
+        "address3": "",
+        "city": "Westerville",
+        "zip_code": "43081",
+        "country": "US",
+        "state": "OH",
+        "display_address": [
+          "495 S State St",
+          "Westerville, OH 43081"
+        ]
+      },
+      "phone": "+16148847827",
+      "display_phone": "(614) 884-7827",
+      "distance": 12833.235945932995
+    }
+  ],
+  "total": 1200,
+  "region": {
+    "center": {
+      "longitude": -82.99896240234375,
+      "latitude": 40.011656617607905
     }
   }
+}
