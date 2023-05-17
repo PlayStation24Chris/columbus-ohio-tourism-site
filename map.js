@@ -99,7 +99,7 @@ function fillMap(locValues, SubwayData)
             SubwayData.businesses[j].coordinates.longitude,
           ])
           .setContent(
-            '<div class="Pop-up "><h1>' +
+            '<div class="Pop-up"><h1>' +
               SubwayData.businesses[j].name +
               "</h1>" +
               "<h2>" +
@@ -143,7 +143,7 @@ Funky.addEventListener('click', function Funkymode(){
             funkymode.businesses[j].coordinates.longitude,
           ])
           .setContent(
-            '<div class="Pop-up "><h1>' +
+            '<div class="Pop-up"><h1>' +
             funkymode.businesses[j].name +
               "</h1>" +
               "<h2>" +
