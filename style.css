@@ -161,12 +161,15 @@ body
     text-align: center;
 }
 
-ol
+.text ol
 {
     text-align: left;
     max-width: 35vw;
-}
 
+}
+.text ol li{
+    width: 300px;
+}
 @media (max-aspect-ratio: 1/1)
 {
     .double
