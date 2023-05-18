@@ -15,7 +15,7 @@
     "Long": -82.980705,
     "FlavorText": "In case of emergency",
     "Link": "https://www.columbus.gov/publichealth/",
-    "href":"hospital.html",
+    "href":"https://www.columbus.gov/publichealth/",
     "Address":"240 Parsons Ave, Columbus, OH 43215",
     "Subway": false
   },
@@ -32,7 +32,7 @@
     "Name": "Ohio State Fair",
     "Lat": 39.999090,
     "Long": -82.990140,
-    "FlavorText": "Experience the state famous fair",
+    "FlavorText": "Experience the state \"famous\" fair",
     "Link": "https://www.ohiostatefair.com/",
     "href":"OhioFair.html",
     "Address":" 717 East 17th Avenue Columbus, Ohio 43211",
@@ -45,7 +45,7 @@
     "FlavorText": "Grocery store visited by locals",
     "Link": "kroger.com",
     "Address":"1350 N High St, Columbus, OH 43201",
-    "href":"kroger.html",
+    "href":"kroger.com",
     "Subway": false
   },
   {
