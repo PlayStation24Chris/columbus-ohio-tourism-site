@@ -1,10 +1,32 @@
 //this file takes the URL extension (subway.html#address=...) and fills out information on the page
-//get yelp reviews
-import yelp from '../YelpSubway.json' assert { type: 'json' };
-const subways = yelp.businesses;
 
-const testLog = document.getElementById('testLog');
+// yelp fusion key
+//1q5Wyuia20sg6oTNXdP3N16DVxyXOgjddjzmQURK9Y1KzVBBFK5VvoQ_XAuamKYG1ZTBImLDYQ0rtVsqgeyCivZeEUGgD_1vc1ozyrmFI2wnBNEUzDnDWQKRce5cZHYx
+
+let subways = null;
+
 let endOutput = "";
+
+//get yelp reviews
+importSubways();
+
+async function importSubways()
+{
+    const response = await fetch('../YelpSubway.json');
+    const yelp = await response.json()
+    subways = yelp.businesses;
+    parseInfo();
+    
+    console.log(endOutput.id); //use in API call
+    
+    const imgEl = document.getElementById('subwayImg');
+    if (endOutput.image_url != "")
+    {
+        imgEl.src = endOutput.image_url;
+    }
+}
+
+//import yelp from '../YelpSubway.json' assert { type: 'json' }; //DEPRECATED LMAO
 
 function parseInfo()
 {
@@ -21,24 +43,15 @@ function parseInfo()
 function sortSubways(loc)
 {
     let count = 0;
-    let output = yelp.businesses[count];
+    let output = subways[count];
     let tester = output.location.display_address.join(' ');
 
     while (tester != loc && count < subways.length - 1)
     {
         ++count;
-        output = yelp.businesses[count];
+        output = subways[count];
         tester = output.location.display_address.join(' ');
     }
 
     return output;
-}
-
-parseInfo();
-console.log(endOutput.id); //use in API call
-
-const imgEl = document.getElementById('subwayImg');
-if (endOutput.image_url != "")
-{
-    imgEl.src = endOutput.image_url;
 }
