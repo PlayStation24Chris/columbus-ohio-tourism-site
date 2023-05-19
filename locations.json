@@ -43,9 +43,9 @@
     "Lat": 39.989479,
     "Long": -83.005341,
     "FlavorText": "Grocery store visited by locals",
-    "Link": "kroger.com",
+    "Link": "https://www.kroger.com",
     "Address":"1350 N High St, Columbus, OH 43201",
-    "href":"kroger.com",
+    "href":"https://www.kroger.com",
     "Subway": false
   },
   {
