@@ -1,0 +1,132 @@
+{
+    "businesses": {
+        "86k8vckqLPskNPhSRRhlxA": {
+            "reviews": [
+                {
+                    "id": "MDmMnL2KesaRuimsjfimqA",
+                    "url": "https://www.yelp.com/biz/subway-columbus-249?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=MDmMnL2KesaRuimsjfimqA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "This subway is horrible! The manager is ALWAYS outside smoking or has an attitude. Neq is always the one working doing all the work! The manager hired new...",
+                    "rating": 1,
+                    "time_created": "2022-11-19 08:24:00",
+                    "user": {
+                        "id": "GpXJKxHa3Yczhjn8OiSuRw",
+                        "profile_url": "https://www.yelp.com/user_details?userid=GpXJKxHa3Yczhjn8OiSuRw",
+                        "image_url": null,
+                        "name": "Princess D."
+                    }
+                },
+                {
+                    "id": "rmNjhr2vmAWclkiG_IJIOw",
+                    "url": "https://www.yelp.com/biz/subway-columbus-249?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=rmNjhr2vmAWclkiG_IJIOw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "This Subway is inside of a Shell gas station, so it's not the full \"subway experience\" whatever that may be, but for what it is, it's not terrible. The food...",
+                    "rating": 2,
+                    "time_created": "2020-01-06 05:28:23",
+                    "user": {
+                        "id": "RrnWCrIiEwal6Dlh4WNrXg",
+                        "profile_url": "https://www.yelp.com/user_details?userid=RrnWCrIiEwal6Dlh4WNrXg",
+                        "image_url": "https://s3-media3.fl.yelpcdn.com/photo/jdpKx7vYMmr_QGUzE0nuPQ/o.jpg",
+                        "name": "Nicholas K."
+                    }
+                }
+            ],
+            "total": 2,
+            "possible_languages": [
+                "en"
+            ]
+        },
+        "ZpxUdKDQSyYLH6YhLKCExg": {
+            "reviews": [
+                {
+                    "id": "P8Kky34quYIZXyDTHj4fGw",
+                    "url": "https://www.yelp.com/biz/subway-columbus-205?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=P8Kky34quYIZXyDTHj4fGw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "Love this location! It's a very small location with usually 1-2 workers at a time, nestled in the gas station's left wall. It's less than a minute from...",
+                    "rating": 5,
+                    "time_created": "2023-06-09 23:42:53",
+                    "user": {
+                        "id": "rz2Y-JYVm3t5mLxwughfsA",
+                        "profile_url": "https://www.yelp.com/user_details?userid=rz2Y-JYVm3t5mLxwughfsA",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/photo/W3kwNE1QWcQtLxv4GSNyLQ/o.jpg",
+                        "name": "Adri C."
+                    }
+                },
+                {
+                    "id": "jOEe4rtys-dZxmbymCdK_g",
+                    "url": "https://www.yelp.com/biz/subway-columbus-205?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=jOEe4rtys-dZxmbymCdK_g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "Tried to order my sandwich when the worker started screaming at me out of nowhere. \nThis was on lane",
+                    "rating": 1,
+                    "time_created": "2022-11-21 22:08:15",
+                    "user": {
+                        "id": "mMQCNoUKrzGibF6iFII8zg",
+                        "profile_url": "https://www.yelp.com/user_details?userid=mMQCNoUKrzGibF6iFII8zg",
+                        "image_url": null,
+                        "name": "G S."
+                    }
+                },
+                {
+                    "id": "v2pWWi3GFkJigmLm03Q2uw",
+                    "url": "https://www.yelp.com/biz/subway-columbus-205?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=v2pWWi3GFkJigmLm03Q2uw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "No mask rule not really enforced on customers, but solid sandwiches and nice worker took me little bit to realize it was in the gas station. Very quick...",
+                    "rating": 4,
+                    "time_created": "2020-08-11 11:38:48",
+                    "user": {
+                        "id": "zerF9bo40riNcPyPcM08xw",
+                        "profile_url": "https://www.yelp.com/user_details?userid=zerF9bo40riNcPyPcM08xw",
+                        "image_url": "https://s3-media2.fl.yelpcdn.com/photo/JUNcA0XG4JVboout1yLO0g/o.jpg",
+                        "name": "Luo C."
+                    }
+                }
+            ],
+            "total": 5,
+            "possible_languages": [
+                "en"
+            ]
+        },
+        "hf4ubaLVUjgEMm8TlRZIKg": {
+            "reviews": [
+                {
+                    "id": "2HhvtkDkWhW8WBThwZ1F8g",
+                    "url": "https://www.yelp.com/biz/subway-westerville-westerville?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=2HhvtkDkWhW8WBThwZ1F8g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "This was one of the best subway restaurants I've ever been to, if not the best. It was very clean, including a very clean bathroom. The people working there...",
+                    "rating": 5,
+                    "time_created": "2019-07-01 14:28:45",
+                    "user": {
+                        "id": "VEs0kwfD8-QZM0jVgmz9yg",
+                        "profile_url": "https://www.yelp.com/user_details?userid=VEs0kwfD8-QZM0jVgmz9yg",
+                        "image_url": "https://s3-media4.fl.yelpcdn.com/photo/wOnTwZnraKsumiBBwoWEQQ/o.jpg",
+                        "name": "Stacey B."
+                    }
+                },
+                {
+                    "id": "x54Hm9kcDPVaOIaB1yByqg",
+                    "url": "https://www.yelp.com/biz/subway-westerville-westerville?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=x54Hm9kcDPVaOIaB1yByqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "I do not recommend this location due to the deplorable customer service.   The people working at this establishment last evening have no business being in...",
+                    "rating": 1,
+                    "time_created": "2021-01-04 03:05:53",
+                    "user": {
+                        "id": "uAYwpu7UipqCUXnI_RuhQg",
+                        "profile_url": "https://www.yelp.com/user_details?userid=uAYwpu7UipqCUXnI_RuhQg",
+                        "image_url": "https://s3-media3.fl.yelpcdn.com/photo/jFJ_y0A-mIJ9n7qyyK4qng/o.jpg",
+                        "name": "Tiffany K."
+                    }
+                },
+                {
+                    "id": "7DkZaY5e7QCT8YqNhEEG9w",
+                    "url": "https://www.yelp.com/biz/subway-westerville-westerville?adjust_creative=-l2Fu-R93GSQdiZ-jN3L8A&hrid=7DkZaY5e7QCT8YqNhEEG9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=-l2Fu-R93GSQdiZ-jN3L8A",
+                    "text": "I went in on 22 Nov 19. I notice there were two new people there. It was around 330pm. They really didn't really know what they were doing but the Muslim...",
+                    "rating": 4,
+                    "time_created": "2019-11-23 16:41:54",
+                    "user": {
+                        "id": "WI3yB2E2U3P9H2bHGm7AJw",
+                        "profile_url": "https://www.yelp.com/user_details?userid=WI3yB2E2U3P9H2bHGm7AJw",
+                        "image_url": "https://s3-media3.fl.yelpcdn.com/photo/dUVZ7Tk50mUfIpqZ2LuEsg/o.jpg",
+                        "name": "Darren S."
+                    }
+                }
+            ],
+            "total": 5,
+            "possible_languages": [
+                "en"
+            ]
+        }
+    }
+}

@@ -1,7 +1,10 @@
 //this file takes the URL extension (subway.html#address=...) and fills out information on the page
 
 // yelp fusion key
-//1q5Wyuia20sg6oTNXdP3N16DVxyXOgjddjzmQURK9Y1KzVBBFK5VvoQ_XAuamKYG1ZTBImLDYQ0rtVsqgeyCivZeEUGgD_1vc1ozyrmFI2wnBNEUzDnDWQKRce5cZHYx
+//OLD -- 1q5Wyuia20sg6oTNXdP3N16DVxyXOgjddjzmQURK9Y1KzVBBFK5VvoQ_XAuamKYG1ZTBImLDYQ0rtVsqgeyCivZeEUGgD_1vc1ozyrmFI2wnBNEUzDnDWQKRce5cZHYx
+
+//CLIENT ID -- -l2Fu-R93GSQdiZ-jN3L8A
+//NEW -- WP_22ljbVGJtFYEjWPo6it1zWEtSUzW5wSisruPs_a7CInxpH7yJm6IFcckXwhQZlU1wWBCwi8-dWnK84Ohk8KiH3tGQHhPtOG8lob8vve8Mg9xgWDRS_DDZ_slDZXYx
 
 const options = {
     method: 'GET',
@@ -9,7 +12,7 @@ const options = {
         "accept": "application/json",
         "x-requested-with": "xmlhttprequest",
         "Access-Control-Allow-Origin": "*",
-        "Authorization": "Bearer 1q5Wyuia20sg6oTNXdP3N16DVxyXOgjddjzmQURK9Y1KzVBBFK5VvoQ_XAuamKYG1ZTBImLDYQ0rtVsqgeyCivZeEUGgD_1vc1ozyrmFI2wnBNEUzDnDWQKRce5cZHYx"
+        "Authorization": "Bearer WP_22ljbVGJtFYEjWPo6it1zWEtSUzW5wSisruPs_a7CInxpH7yJm6IFcckXwhQZlU1wWBCwi8-dWnK84Ohk8KiH3tGQHhPtOG8lob8vve8Mg9xgWDRS_DDZ_slDZXYx"
     }
 };
 
@@ -23,7 +26,7 @@ importSubways();
 async function importSubways()
 {
     let rspns = await fetch('../YelpSubway.json');
-    const yelp = await rspns.json()
+    const yelp = await rspns.json();
     subways = yelp.businesses;
     parseInfo();
     
@@ -34,7 +37,27 @@ async function importSubways()
     }
 
     console.log(endOutput.id); //use in API call
-    fetch("https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/"+endOutput.id+"/reviews?limit=2&sort_by=yelp_sort", options).then(response => response.json()).then(response => fillReviews(response));
+
+    fetch('../YelpReviews.json').then(async (res) => {
+        if (res.ok) {
+            //console.log(await res.json().businesses[endOutput.id]);
+            reviewData = await res.json();
+            if (endOutput.id in reviewData.businesses) {
+                reviewData = reviewData.businesses[endOutput.id];
+                fillReviews(reviewData);
+            } else { //currently not working VVVV (but would be fixed by default if all locations were added to JSON file)
+                console.log("no data found. Requesting data...");
+                fetch("https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/"+endOutput.id+"/reviews?limit=2&sort_by=yelp_sort", options).then(response => response.json()).then(response => fillReviews(response));
+            }
+        }
+        else
+        {
+            console.log("no data found. Requesting data...");
+            fetch("https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/"+endOutput.id+"/reviews?limit=2&sort_by=yelp_sort", options).then(response => response.json()).then(response => fillReviews(response));
+        }
+    });
+
+
     /*$.ajax({
         url: "https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/"+endOutput.id+"/reviews",
         method: 'GET',
